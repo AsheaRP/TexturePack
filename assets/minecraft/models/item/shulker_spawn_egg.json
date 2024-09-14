@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/spawn_egg",
+        "layer1": "item/spawn_egg_overlay"
+    },
+        "overrides": [
+                { "predicate": {"custom_model_data":83500}, "model": "item/altar"},
+                { "predicate": {"custom_model_data":83501}, "model": "item/altar_shining"}
+        ]
+}

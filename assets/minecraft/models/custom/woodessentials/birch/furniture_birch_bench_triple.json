@@ -1,0 +1,10 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "custom/woodessentials/core/furniture_bench_triple",
+	"textures": {
+		"0": "block/anvil",
+		"2": "block/birch_planks",
+		"3": "block/stripped_birch_log",
+		"particle": "block/anvil"
+	}
+}

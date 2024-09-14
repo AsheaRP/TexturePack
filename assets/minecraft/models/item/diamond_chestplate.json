@@ -1,0 +1,33 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/diamond_chestplate"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/steel/steel_chestplate"},
+		{"predicate": {"custom_model_data":2}, "model": "item/steel/jade_chestplate"},
+		{"predicate": {"custom_model_data":3}, "model": "item/steel/ruby_chestplate"},
+		{"predicate": {"custom_model_data":4}, "model": "item/steel/sapph_chestplate"},
+		{"predicate": {"custom_model_data":5}, "model": "item/platediron/pichestplateup"},
+		{"predicate": {"custom_model_data":6}, "model": "item/adam/achestplateup"},
+		{
+			"predicate": { "custom_model_data": 7 },
+			"model": "item/darktitan/dtchestplateup"
+		},
+		{
+			"predicate": { "custom_model_data": 8 },
+			"model": "item/elf/gupchestplate"
+		},
+		{
+			"predicate": { "custom_model_data": 9 },
+			"model": "item/nayan/nupchestplate"
+		},
+		{
+			"predicate": { "custom_model_data": 10 },
+			"model": "item/dwarven/dupchestplate"
+		}
+
+
+			]
+		}

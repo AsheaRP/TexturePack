@@ -1,0 +1,6 @@
+{
+    "parent": "block/c_crop",
+    "textures": {
+        "c_crop": "block/tomato/tomatoes"
+    }
+}

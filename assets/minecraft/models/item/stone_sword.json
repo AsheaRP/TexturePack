@@ -1,0 +1,124 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/stone_sword"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "item/stone_sword/cutlass"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "item/stone_sword/sabre"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "item/stone_sword/katana"
+    },
+    {
+      "predicate": { "custom_model_data": 4 },
+      "model": "item/stone_sword/rapier"
+    },
+    {
+      "predicate": { "custom_model_data": 5 },
+      "model": "item/stone_sword/claymore"
+    },
+    {
+      "predicate": { "custom_model_data": 6 },
+      "model": "item/stone_sword/greatsword"
+    },
+    {
+      "predicate": { "custom_model_data": 7 },
+      "model": "item/stone_sword/doublesword"
+    },
+    {
+      "predicate": { "custom_model_data": 8 },
+      "model": "item/stone_sword/dagger"
+    },
+    {
+      "predicate": { "custom_model_data": 9 },
+      "model": "item/stone_sword/greataxe"
+    },
+    {
+      "predicate": { "custom_model_data": 10 },
+      "model": "item/stone_sword/scythe"
+    },
+    {
+      "predicate": { "custom_model_data": 11 },
+      "model": "item/stone_sword/spear"
+    },
+    {
+      "predicate": { "custom_model_data": 12 },
+      "model": "item/stone_sword/glaive"
+    },
+    {
+      "predicate": { "custom_model_data": 13 },
+      "model": "item/stone_sword/doublerapier"
+    },
+    {
+      "predicate": { "custom_model_data": 2011 },
+      "model": "assassin_model/assassin_blade"
+    },
+    {
+      "predicate": { "custom_model_data": 2012 },
+      "model": "assassin_model/assassin_blade_shiny"
+    },
+    {
+      "predicate": { "custom_model_data": 2019 },
+      "model": "archer_model/archer_bow"
+    },
+    {
+      "predicate": { "custom_model_data": 2020 },
+      "model": "archer_model/archer_bow_shiny"
+    },
+    {
+      "predicate": { "custom_model_data": 2021 },
+      "model": "mage_model/mage_staff"
+    },
+    {
+      "predicate": { "custom_model_data": 2022 },
+      "model": "mage_model/mage_staff_shiny"
+    },
+    {
+      "predicate": { "custom_model_data": 2027 },
+      "model": "druid_model/druid_staff"
+    },
+    {
+      "predicate": { "custom_model_data": 2028 },
+      "model": "druid_model/druid_staff_shiny"
+    },
+    {
+      "predicate": { "custom_model_data": 2035 },
+      "model": "paladin_model/paladin_hammer"
+    },
+    {
+      "predicate": { "custom_model_data": 2036 },
+      "model": "paladin_model/paladin_hammer_shiny"
+    },
+    {
+      "predicate": { "custom_model_data": 2043 },
+      "model": "archmage_model/archmage_staff"
+    },
+    {
+      "predicate": { "custom_model_data": 2044 },
+      "model": "archmage_model/archmage_staff_shiny"
+    },
+    {
+      "predicate": { "custom_model_data": 2045 },
+      "model": "cleric_model/cleric_mace"
+    },
+    {
+      "predicate": { "custom_model_data": 2046 },
+      "model": "cleric_model/cleric_mace_shiny"
+    },
+    {
+      "predicate": { "custom_model_data": 2056 },
+      "model": "babarian_model/axe_babarian"
+    },
+    {
+      "predicate": { "custom_model_data": 2057 },
+      "model": "babarian_model/axe_babarian_shiny"
+    }
+  ]
+}

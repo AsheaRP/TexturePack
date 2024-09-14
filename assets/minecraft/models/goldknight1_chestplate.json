@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/armor/gold/1/goldknight1_chestplate",
+    "layer1": "item/armor/gold/1/goldknight1_chestplate"
+  }
+}

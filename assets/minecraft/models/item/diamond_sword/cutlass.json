@@ -1,0 +1,2335 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/diamond_sword/iron_cutlass3",
+		"particle": "item/diamond_sword/iron_cutlass3"
+	},
+	"elements": [
+		{
+			"name": "iron_cutlass3_0",
+			"from": [10, 14, 0.1],
+			"to": [10.5, 14.5, 0.4],
+			"faces": {
+				"north": {"uv": [10.5, 1.5, 10, 2], "texture": "#0"},
+				"east": {"uv": [10, 1.5, 10.5, 2], "texture": "#0"},
+				"south": {"uv": [10, 1.5, 10.5, 2], "texture": "#0"},
+				"west": {"uv": [10, 1.5, 10.5, 2], "texture": "#0"},
+				"up": {"uv": [10, 1.5, 10.5, 2], "texture": "#0"},
+				"down": {"uv": [10, 1.5, 10.5, 2], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_1",
+			"from": [9.5, 13.5, 0.1],
+			"to": [10, 14, 0.4],
+			"faces": {
+				"north": {"uv": [10, 2, 9.5, 2.5], "texture": "#0"},
+				"east": {"uv": [9.5, 2, 10, 2.5], "texture": "#0"},
+				"south": {"uv": [9.5, 2, 10, 2.5], "texture": "#0"},
+				"west": {"uv": [9.5, 2, 10, 2.5], "texture": "#0"},
+				"up": {"uv": [9.5, 2, 10, 2.5], "texture": "#0"},
+				"down": {"uv": [9.5, 2, 10, 2.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_2",
+			"from": [10, 13.5, 0.1],
+			"to": [10.5, 14, 0.4],
+			"faces": {
+				"north": {"uv": [10.5, 2, 10, 2.5], "texture": "#0"},
+				"east": {"uv": [10, 2, 10.5, 2.5], "texture": "#0"},
+				"south": {"uv": [10, 2, 10.5, 2.5], "texture": "#0"},
+				"west": {"uv": [10, 2, 10.5, 2.5], "texture": "#0"},
+				"up": {"uv": [10, 2, 10.5, 2.5], "texture": "#0"},
+				"down": {"uv": [10, 2, 10.5, 2.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_3",
+			"from": [9, 13, 0.1],
+			"to": [9.5, 13.5, 0.4],
+			"faces": {
+				"north": {"uv": [9.5, 2.5, 9, 3], "texture": "#0"},
+				"east": {"uv": [9, 2.5, 9.5, 3], "texture": "#0"},
+				"south": {"uv": [9, 2.5, 9.5, 3], "texture": "#0"},
+				"west": {"uv": [9, 2.5, 9.5, 3], "texture": "#0"},
+				"up": {"uv": [9, 2.5, 9.5, 3], "texture": "#0"},
+				"down": {"uv": [9, 2.5, 9.5, 3], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_4",
+			"from": [9.5, 13, 0],
+			"to": [10, 13.5, 0.5],
+			"faces": {
+				"north": {"uv": [10, 2.5, 9.5, 3], "texture": "#0"},
+				"east": {"uv": [9.5, 2.5, 10, 3], "texture": "#0"},
+				"south": {"uv": [9.5, 2.5, 10, 3], "texture": "#0"},
+				"west": {"uv": [9.5, 2.5, 10, 3], "texture": "#0"},
+				"up": {"uv": [9.5, 2.5, 10, 3], "texture": "#0"},
+				"down": {"uv": [9.5, 2.5, 10, 3], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_5",
+			"from": [10, 13, 0.1],
+			"to": [10.5, 13.5, 0.4],
+			"faces": {
+				"north": {"uv": [10.5, 2.5, 10, 3], "texture": "#0"},
+				"east": {"uv": [10, 2.5, 10.5, 3], "texture": "#0"},
+				"south": {"uv": [10, 2.5, 10.5, 3], "texture": "#0"},
+				"west": {"uv": [10, 2.5, 10.5, 3], "texture": "#0"},
+				"up": {"uv": [10, 2.5, 10.5, 3], "texture": "#0"},
+				"down": {"uv": [10, 2.5, 10.5, 3], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_6",
+			"from": [8.5, 12.5, 0.1],
+			"to": [9, 13, 0.4],
+			"faces": {
+				"north": {"uv": [9, 3, 8.5, 3.5], "texture": "#0"},
+				"east": {"uv": [8.5, 3, 9, 3.5], "texture": "#0"},
+				"south": {"uv": [8.5, 3, 9, 3.5], "texture": "#0"},
+				"west": {"uv": [8.5, 3, 9, 3.5], "texture": "#0"},
+				"up": {"uv": [8.5, 3, 9, 3.5], "texture": "#0"},
+				"down": {"uv": [8.5, 3, 9, 3.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_7",
+			"from": [9, 12.5, 0],
+			"to": [9.5, 13, 0.5],
+			"faces": {
+				"north": {"uv": [9.5, 3, 9, 3.5], "texture": "#0"},
+				"east": {"uv": [9, 3, 9.5, 3.5], "texture": "#0"},
+				"south": {"uv": [9, 3, 9.5, 3.5], "texture": "#0"},
+				"west": {"uv": [9, 3, 9.5, 3.5], "texture": "#0"},
+				"up": {"uv": [9, 3, 9.5, 3.5], "texture": "#0"},
+				"down": {"uv": [9, 3, 9.5, 3.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_8",
+			"from": [9.5, 12.5, 0],
+			"to": [10, 13, 0.5],
+			"faces": {
+				"north": {"uv": [10, 3, 9.5, 3.5], "texture": "#0"},
+				"east": {"uv": [9.5, 3, 10, 3.5], "texture": "#0"},
+				"south": {"uv": [9.5, 3, 10, 3.5], "texture": "#0"},
+				"west": {"uv": [9.5, 3, 10, 3.5], "texture": "#0"},
+				"up": {"uv": [9.5, 3, 10, 3.5], "texture": "#0"},
+				"down": {"uv": [9.5, 3, 10, 3.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_9",
+			"from": [10, 12.5, 0.1],
+			"to": [10.5, 13, 0.4],
+			"faces": {
+				"north": {"uv": [10.5, 3, 10, 3.5], "texture": "#0"},
+				"east": {"uv": [10, 3, 10.5, 3.5], "texture": "#0"},
+				"south": {"uv": [10, 3, 10.5, 3.5], "texture": "#0"},
+				"west": {"uv": [10, 3, 10.5, 3.5], "texture": "#0"},
+				"up": {"uv": [10, 3, 10.5, 3.5], "texture": "#0"},
+				"down": {"uv": [10, 3, 10.5, 3.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_10",
+			"from": [8, 12, 0.1],
+			"to": [8.5, 12.5, 0.4],
+			"faces": {
+				"north": {"uv": [8.5, 3.5, 8, 4], "texture": "#0"},
+				"east": {"uv": [8, 3.5, 8.5, 4], "texture": "#0"},
+				"south": {"uv": [8, 3.5, 8.5, 4], "texture": "#0"},
+				"west": {"uv": [8, 3.5, 8.5, 4], "texture": "#0"},
+				"up": {"uv": [8, 3.5, 8.5, 4], "texture": "#0"},
+				"down": {"uv": [8, 3.5, 8.5, 4], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_11",
+			"from": [8.5, 12, 0],
+			"to": [9, 12.5, 0.5],
+			"faces": {
+				"north": {"uv": [9, 3.5, 8.5, 4], "texture": "#0"},
+				"east": {"uv": [8.5, 3.5, 9, 4], "texture": "#0"},
+				"south": {"uv": [8.5, 3.5, 9, 4], "texture": "#0"},
+				"west": {"uv": [8.5, 3.5, 9, 4], "texture": "#0"},
+				"up": {"uv": [8.5, 3.5, 9, 4], "texture": "#0"},
+				"down": {"uv": [8.5, 3.5, 9, 4], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_12",
+			"from": [9, 12, 0],
+			"to": [9.5, 12.5, 0.5],
+			"faces": {
+				"north": {"uv": [9.5, 3.5, 9, 4], "texture": "#0"},
+				"east": {"uv": [9, 3.5, 9.5, 4], "texture": "#0"},
+				"south": {"uv": [9, 3.5, 9.5, 4], "texture": "#0"},
+				"west": {"uv": [9, 3.5, 9.5, 4], "texture": "#0"},
+				"up": {"uv": [9, 3.5, 9.5, 4], "texture": "#0"},
+				"down": {"uv": [9, 3.5, 9.5, 4], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_13",
+			"from": [9.5, 12, 0],
+			"to": [10, 12.5, 0.5],
+			"faces": {
+				"north": {"uv": [10, 3.5, 9.5, 4], "texture": "#0"},
+				"east": {"uv": [9.5, 3.5, 10, 4], "texture": "#0"},
+				"south": {"uv": [9.5, 3.5, 10, 4], "texture": "#0"},
+				"west": {"uv": [9.5, 3.5, 10, 4], "texture": "#0"},
+				"up": {"uv": [9.5, 3.5, 10, 4], "texture": "#0"},
+				"down": {"uv": [9.5, 3.5, 10, 4], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_14",
+			"from": [10, 12, 0.1],
+			"to": [10.5, 12.5, 0.4],
+			"faces": {
+				"north": {"uv": [10.5, 3.5, 10, 4], "texture": "#0"},
+				"east": {"uv": [10, 3.5, 10.5, 4], "texture": "#0"},
+				"south": {"uv": [10, 3.5, 10.5, 4], "texture": "#0"},
+				"west": {"uv": [10, 3.5, 10.5, 4], "texture": "#0"},
+				"up": {"uv": [10, 3.5, 10.5, 4], "texture": "#0"},
+				"down": {"uv": [10, 3.5, 10.5, 4], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_15",
+			"from": [7.5, 11.5, 0.1],
+			"to": [8, 12, 0.4],
+			"faces": {
+				"north": {"uv": [8, 4, 7.5, 4.5], "texture": "#0"},
+				"east": {"uv": [7.5, 4, 8, 4.5], "texture": "#0"},
+				"south": {"uv": [7.5, 4, 8, 4.5], "texture": "#0"},
+				"west": {"uv": [7.5, 4, 8, 4.5], "texture": "#0"},
+				"up": {"uv": [7.5, 4, 8, 4.5], "texture": "#0"},
+				"down": {"uv": [7.5, 4, 8, 4.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_16",
+			"from": [8, 11.5, 0],
+			"to": [8.5, 12, 0.5],
+			"faces": {
+				"north": {"uv": [8.5, 4, 8, 4.5], "texture": "#0"},
+				"east": {"uv": [8, 4, 8.5, 4.5], "texture": "#0"},
+				"south": {"uv": [8, 4, 8.5, 4.5], "texture": "#0"},
+				"west": {"uv": [8, 4, 8.5, 4.5], "texture": "#0"},
+				"up": {"uv": [8, 4, 8.5, 4.5], "texture": "#0"},
+				"down": {"uv": [8, 4, 8.5, 4.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_17",
+			"from": [8.5, 11.5, 0],
+			"to": [9, 12, 0.5],
+			"faces": {
+				"north": {"uv": [9, 4, 8.5, 4.5], "texture": "#0"},
+				"east": {"uv": [8.5, 4, 9, 4.5], "texture": "#0"},
+				"south": {"uv": [8.5, 4, 9, 4.5], "texture": "#0"},
+				"west": {"uv": [8.5, 4, 9, 4.5], "texture": "#0"},
+				"up": {"uv": [8.5, 4, 9, 4.5], "texture": "#0"},
+				"down": {"uv": [8.5, 4, 9, 4.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_18",
+			"from": [9, 11.5, 0],
+			"to": [9.5, 12, 0.5],
+			"faces": {
+				"north": {"uv": [9.5, 4, 9, 4.5], "texture": "#0"},
+				"east": {"uv": [9, 4, 9.5, 4.5], "texture": "#0"},
+				"south": {"uv": [9, 4, 9.5, 4.5], "texture": "#0"},
+				"west": {"uv": [9, 4, 9.5, 4.5], "texture": "#0"},
+				"up": {"uv": [9, 4, 9.5, 4.5], "texture": "#0"},
+				"down": {"uv": [9, 4, 9.5, 4.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_19",
+			"from": [9.5, 11.5, 0],
+			"to": [10, 12, 0.5],
+			"faces": {
+				"north": {"uv": [10, 4, 9.5, 4.5], "texture": "#0"},
+				"east": {"uv": [9.5, 4, 10, 4.5], "texture": "#0"},
+				"south": {"uv": [9.5, 4, 10, 4.5], "texture": "#0"},
+				"west": {"uv": [9.5, 4, 10, 4.5], "texture": "#0"},
+				"up": {"uv": [9.5, 4, 10, 4.5], "texture": "#0"},
+				"down": {"uv": [9.5, 4, 10, 4.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_20",
+			"from": [10, 11.5, 0.1],
+			"to": [10.5, 12, 0.4],
+			"faces": {
+				"north": {"uv": [10.5, 4, 10, 4.5], "texture": "#0"},
+				"east": {"uv": [10, 4, 10.5, 4.5], "texture": "#0"},
+				"south": {"uv": [10, 4, 10.5, 4.5], "texture": "#0"},
+				"west": {"uv": [10, 4, 10.5, 4.5], "texture": "#0"},
+				"up": {"uv": [10, 4, 10.5, 4.5], "texture": "#0"},
+				"down": {"uv": [10, 4, 10.5, 4.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_21",
+			"from": [7, 11, 0.1],
+			"to": [7.5, 11.5, 0.4],
+			"faces": {
+				"north": {"uv": [7.5, 4.5, 7, 5], "texture": "#0"},
+				"east": {"uv": [7, 4.5, 7.5, 5], "texture": "#0"},
+				"south": {"uv": [7, 4.5, 7.5, 5], "texture": "#0"},
+				"west": {"uv": [7, 4.5, 7.5, 5], "texture": "#0"},
+				"up": {"uv": [7, 4.5, 7.5, 5], "texture": "#0"},
+				"down": {"uv": [7, 4.5, 7.5, 5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_22",
+			"from": [7.5, 11, 0],
+			"to": [8, 11.5, 0.5],
+			"faces": {
+				"north": {"uv": [8, 4.5, 7.5, 5], "texture": "#0"},
+				"east": {"uv": [7.5, 4.5, 8, 5], "texture": "#0"},
+				"south": {"uv": [7.5, 4.5, 8, 5], "texture": "#0"},
+				"west": {"uv": [7.5, 4.5, 8, 5], "texture": "#0"},
+				"up": {"uv": [7.5, 4.5, 8, 5], "texture": "#0"},
+				"down": {"uv": [7.5, 4.5, 8, 5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_23",
+			"from": [8, 11, 0],
+			"to": [8.5, 11.5, 0.5],
+			"faces": {
+				"north": {"uv": [8.5, 4.5, 8, 5], "texture": "#0"},
+				"east": {"uv": [8, 4.5, 8.5, 5], "texture": "#0"},
+				"south": {"uv": [8, 4.5, 8.5, 5], "texture": "#0"},
+				"west": {"uv": [8, 4.5, 8.5, 5], "texture": "#0"},
+				"up": {"uv": [8, 4.5, 8.5, 5], "texture": "#0"},
+				"down": {"uv": [8, 4.5, 8.5, 5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_24",
+			"from": [8.5, 11, 0],
+			"to": [9, 11.5, 0.5],
+			"faces": {
+				"north": {"uv": [9, 4.5, 8.5, 5], "texture": "#0"},
+				"east": {"uv": [8.5, 4.5, 9, 5], "texture": "#0"},
+				"south": {"uv": [8.5, 4.5, 9, 5], "texture": "#0"},
+				"west": {"uv": [8.5, 4.5, 9, 5], "texture": "#0"},
+				"up": {"uv": [8.5, 4.5, 9, 5], "texture": "#0"},
+				"down": {"uv": [8.5, 4.5, 9, 5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_25",
+			"from": [9, 11, 0],
+			"to": [9.5, 11.5, 0.5],
+			"faces": {
+				"north": {"uv": [9.5, 4.5, 9, 5], "texture": "#0"},
+				"east": {"uv": [9, 4.5, 9.5, 5], "texture": "#0"},
+				"south": {"uv": [9, 4.5, 9.5, 5], "texture": "#0"},
+				"west": {"uv": [9, 4.5, 9.5, 5], "texture": "#0"},
+				"up": {"uv": [9, 4.5, 9.5, 5], "texture": "#0"},
+				"down": {"uv": [9, 4.5, 9.5, 5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_26",
+			"from": [9.5, 11, 0.1],
+			"to": [10, 11.5, 0.4],
+			"faces": {
+				"north": {"uv": [10, 4.5, 9.5, 5], "texture": "#0"},
+				"east": {"uv": [9.5, 4.5, 10, 5], "texture": "#0"},
+				"south": {"uv": [9.5, 4.5, 10, 5], "texture": "#0"},
+				"west": {"uv": [9.5, 4.5, 10, 5], "texture": "#0"},
+				"up": {"uv": [9.5, 4.5, 10, 5], "texture": "#0"},
+				"down": {"uv": [9.5, 4.5, 10, 5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_27",
+			"from": [7, 10.5, 0.1],
+			"to": [7.5, 11, 0.4],
+			"faces": {
+				"north": {"uv": [7.5, 5, 7, 5.5], "texture": "#0"},
+				"east": {"uv": [7, 5, 7.5, 5.5], "texture": "#0"},
+				"south": {"uv": [7, 5, 7.5, 5.5], "texture": "#0"},
+				"west": {"uv": [7, 5, 7.5, 5.5], "texture": "#0"},
+				"up": {"uv": [7, 5, 7.5, 5.5], "texture": "#0"},
+				"down": {"uv": [7, 5, 7.5, 5.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_28",
+			"from": [7.5, 10.5, 0],
+			"to": [8, 11, 0.5],
+			"faces": {
+				"north": {"uv": [8, 5, 7.5, 5.5], "texture": "#0"},
+				"east": {"uv": [7.5, 5, 8, 5.5], "texture": "#0"},
+				"south": {"uv": [7.5, 5, 8, 5.5], "texture": "#0"},
+				"west": {"uv": [7.5, 5, 8, 5.5], "texture": "#0"},
+				"up": {"uv": [7.5, 5, 8, 5.5], "texture": "#0"},
+				"down": {"uv": [7.5, 5, 8, 5.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_29",
+			"from": [8, 10.5, 0],
+			"to": [8.5, 11, 0.5],
+			"faces": {
+				"north": {"uv": [8.5, 5, 8, 5.5], "texture": "#0"},
+				"east": {"uv": [8, 5, 8.5, 5.5], "texture": "#0"},
+				"south": {"uv": [8, 5, 8.5, 5.5], "texture": "#0"},
+				"west": {"uv": [8, 5, 8.5, 5.5], "texture": "#0"},
+				"up": {"uv": [8, 5, 8.5, 5.5], "texture": "#0"},
+				"down": {"uv": [8, 5, 8.5, 5.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_30",
+			"from": [8.5, 10.5, 0],
+			"to": [9, 11, 0.5],
+			"faces": {
+				"north": {"uv": [9, 5, 8.5, 5.5], "texture": "#0"},
+				"east": {"uv": [8.5, 5, 9, 5.5], "texture": "#0"},
+				"south": {"uv": [8.5, 5, 9, 5.5], "texture": "#0"},
+				"west": {"uv": [8.5, 5, 9, 5.5], "texture": "#0"},
+				"up": {"uv": [8.5, 5, 9, 5.5], "texture": "#0"},
+				"down": {"uv": [8.5, 5, 9, 5.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_31",
+			"from": [9, 10.5, 0],
+			"to": [9.5, 11, 0.5],
+			"faces": {
+				"north": {"uv": [9.5, 5, 9, 5.5], "texture": "#0"},
+				"east": {"uv": [9, 5, 9.5, 5.5], "texture": "#0"},
+				"south": {"uv": [9, 5, 9.5, 5.5], "texture": "#0"},
+				"west": {"uv": [9, 5, 9.5, 5.5], "texture": "#0"},
+				"up": {"uv": [9, 5, 9.5, 5.5], "texture": "#0"},
+				"down": {"uv": [9, 5, 9.5, 5.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_32",
+			"from": [9.5, 10.5, 0.1],
+			"to": [10, 11, 0.4],
+			"faces": {
+				"north": {"uv": [10, 5, 9.5, 5.5], "texture": "#0"},
+				"east": {"uv": [9.5, 5, 10, 5.5], "texture": "#0"},
+				"south": {"uv": [9.5, 5, 10, 5.5], "texture": "#0"},
+				"west": {"uv": [9.5, 5, 10, 5.5], "texture": "#0"},
+				"up": {"uv": [9.5, 5, 10, 5.5], "texture": "#0"},
+				"down": {"uv": [9.5, 5, 10, 5.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_33",
+			"from": [7, 10, 0.1],
+			"to": [7.5, 10.5, 0.4],
+			"faces": {
+				"north": {"uv": [7.5, 5.5, 7, 6], "texture": "#0"},
+				"east": {"uv": [7, 5.5, 7.5, 6], "texture": "#0"},
+				"south": {"uv": [7, 5.5, 7.5, 6], "texture": "#0"},
+				"west": {"uv": [7, 5.5, 7.5, 6], "texture": "#0"},
+				"up": {"uv": [7, 5.5, 7.5, 6], "texture": "#0"},
+				"down": {"uv": [7, 5.5, 7.5, 6], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_34",
+			"from": [7.5, 10, 0],
+			"to": [8, 10.5, 0.5],
+			"faces": {
+				"north": {"uv": [8, 5.5, 7.5, 6], "texture": "#0"},
+				"east": {"uv": [7.5, 5.5, 8, 6], "texture": "#0"},
+				"south": {"uv": [7.5, 5.5, 8, 6], "texture": "#0"},
+				"west": {"uv": [7.5, 5.5, 8, 6], "texture": "#0"},
+				"up": {"uv": [7.5, 5.5, 8, 6], "texture": "#0"},
+				"down": {"uv": [7.5, 5.5, 8, 6], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_35",
+			"from": [8, 10, 0],
+			"to": [8.5, 10.5, 0.5],
+			"faces": {
+				"north": {"uv": [8.5, 5.5, 8, 6], "texture": "#0"},
+				"east": {"uv": [8, 5.5, 8.5, 6], "texture": "#0"},
+				"south": {"uv": [8, 5.5, 8.5, 6], "texture": "#0"},
+				"west": {"uv": [8, 5.5, 8.5, 6], "texture": "#0"},
+				"up": {"uv": [8, 5.5, 8.5, 6], "texture": "#0"},
+				"down": {"uv": [8, 5.5, 8.5, 6], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_36",
+			"from": [8.5, 10, 0],
+			"to": [9, 10.5, 0.5],
+			"faces": {
+				"north": {"uv": [9, 5.5, 8.5, 6], "texture": "#0"},
+				"east": {"uv": [8.5, 5.5, 9, 6], "texture": "#0"},
+				"south": {"uv": [8.5, 5.5, 9, 6], "texture": "#0"},
+				"west": {"uv": [8.5, 5.5, 9, 6], "texture": "#0"},
+				"up": {"uv": [8.5, 5.5, 9, 6], "texture": "#0"},
+				"down": {"uv": [8.5, 5.5, 9, 6], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_37",
+			"from": [9, 10, 0],
+			"to": [9.5, 10.5, 0.5],
+			"faces": {
+				"north": {"uv": [9.5, 5.5, 9, 6], "texture": "#0"},
+				"east": {"uv": [9, 5.5, 9.5, 6], "texture": "#0"},
+				"south": {"uv": [9, 5.5, 9.5, 6], "texture": "#0"},
+				"west": {"uv": [9, 5.5, 9.5, 6], "texture": "#0"},
+				"up": {"uv": [9, 5.5, 9.5, 6], "texture": "#0"},
+				"down": {"uv": [9, 5.5, 9.5, 6], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_38",
+			"from": [9.5, 10, 0.1],
+			"to": [10, 10.5, 0.4],
+			"faces": {
+				"north": {"uv": [10, 5.5, 9.5, 6], "texture": "#0"},
+				"east": {"uv": [9.5, 5.5, 10, 6], "texture": "#0"},
+				"south": {"uv": [9.5, 5.5, 10, 6], "texture": "#0"},
+				"west": {"uv": [9.5, 5.5, 10, 6], "texture": "#0"},
+				"up": {"uv": [9.5, 5.5, 10, 6], "texture": "#0"},
+				"down": {"uv": [9.5, 5.5, 10, 6], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_39",
+			"from": [7, 9.5, 0.1],
+			"to": [7.5, 10, 0.4],
+			"faces": {
+				"north": {"uv": [7.5, 6, 7, 6.5], "texture": "#0"},
+				"east": {"uv": [7, 6, 7.5, 6.5], "texture": "#0"},
+				"south": {"uv": [7, 6, 7.5, 6.5], "texture": "#0"},
+				"west": {"uv": [7, 6, 7.5, 6.5], "texture": "#0"},
+				"up": {"uv": [7, 6, 7.5, 6.5], "texture": "#0"},
+				"down": {"uv": [7, 6, 7.5, 6.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_40",
+			"from": [7.5, 9.5, 0],
+			"to": [8, 10, 0.5],
+			"faces": {
+				"north": {"uv": [8, 6, 7.5, 6.5], "texture": "#0"},
+				"east": {"uv": [7.5, 6, 8, 6.5], "texture": "#0"},
+				"south": {"uv": [7.5, 6, 8, 6.5], "texture": "#0"},
+				"west": {"uv": [7.5, 6, 8, 6.5], "texture": "#0"},
+				"up": {"uv": [7.5, 6, 8, 6.5], "texture": "#0"},
+				"down": {"uv": [7.5, 6, 8, 6.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_41",
+			"from": [8, 9.5, 0],
+			"to": [8.5, 10, 0.5],
+			"faces": {
+				"north": {"uv": [8.5, 6, 8, 6.5], "texture": "#0"},
+				"east": {"uv": [8, 6, 8.5, 6.5], "texture": "#0"},
+				"south": {"uv": [8, 6, 8.5, 6.5], "texture": "#0"},
+				"west": {"uv": [8, 6, 8.5, 6.5], "texture": "#0"},
+				"up": {"uv": [8, 6, 8.5, 6.5], "texture": "#0"},
+				"down": {"uv": [8, 6, 8.5, 6.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_42",
+			"from": [8.5, 9.5, 0],
+			"to": [9, 10, 0.5],
+			"faces": {
+				"north": {"uv": [9, 6, 8.5, 6.5], "texture": "#0"},
+				"east": {"uv": [8.5, 6, 9, 6.5], "texture": "#0"},
+				"south": {"uv": [8.5, 6, 9, 6.5], "texture": "#0"},
+				"west": {"uv": [8.5, 6, 9, 6.5], "texture": "#0"},
+				"up": {"uv": [8.5, 6, 9, 6.5], "texture": "#0"},
+				"down": {"uv": [8.5, 6, 9, 6.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_43",
+			"from": [9, 9.5, 0],
+			"to": [9.5, 10, 0.5],
+			"faces": {
+				"north": {"uv": [9.5, 6, 9, 6.5], "texture": "#0"},
+				"east": {"uv": [9, 6, 9.5, 6.5], "texture": "#0"},
+				"south": {"uv": [9, 6, 9.5, 6.5], "texture": "#0"},
+				"west": {"uv": [9, 6, 9.5, 6.5], "texture": "#0"},
+				"up": {"uv": [9, 6, 9.5, 6.5], "texture": "#0"},
+				"down": {"uv": [9, 6, 9.5, 6.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_44",
+			"from": [9.5, 9.5, 0.1],
+			"to": [10, 10, 0.4],
+			"faces": {
+				"north": {"uv": [10, 6, 9.5, 6.5], "texture": "#0"},
+				"east": {"uv": [9.5, 6, 10, 6.5], "texture": "#0"},
+				"south": {"uv": [9.5, 6, 10, 6.5], "texture": "#0"},
+				"west": {"uv": [9.5, 6, 10, 6.5], "texture": "#0"},
+				"up": {"uv": [9.5, 6, 10, 6.5], "texture": "#0"},
+				"down": {"uv": [9.5, 6, 10, 6.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_45",
+			"from": [6.5, 9, 0.1],
+			"to": [7, 9.5, 0.4],
+			"faces": {
+				"north": {"uv": [7, 6.5, 6.5, 7], "texture": "#0"},
+				"east": {"uv": [6.5, 6.5, 7, 7], "texture": "#0"},
+				"south": {"uv": [6.5, 6.5, 7, 7], "texture": "#0"},
+				"west": {"uv": [6.5, 6.5, 7, 7], "texture": "#0"},
+				"up": {"uv": [6.5, 6.5, 7, 7], "texture": "#0"},
+				"down": {"uv": [6.5, 6.5, 7, 7], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_46",
+			"from": [7, 9, 0],
+			"to": [7.5, 9.5, 0.5],
+			"faces": {
+				"north": {"uv": [7.5, 6.5, 7, 7], "texture": "#0"},
+				"east": {"uv": [7, 6.5, 7.5, 7], "texture": "#0"},
+				"south": {"uv": [7, 6.5, 7.5, 7], "texture": "#0"},
+				"west": {"uv": [7, 6.5, 7.5, 7], "texture": "#0"},
+				"up": {"uv": [7, 6.5, 7.5, 7], "texture": "#0"},
+				"down": {"uv": [7, 6.5, 7.5, 7], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_47",
+			"from": [7.5, 9, 0],
+			"to": [8, 9.5, 0.5],
+			"faces": {
+				"north": {"uv": [8, 6.5, 7.5, 7], "texture": "#0"},
+				"east": {"uv": [7.5, 6.5, 8, 7], "texture": "#0"},
+				"south": {"uv": [7.5, 6.5, 8, 7], "texture": "#0"},
+				"west": {"uv": [7.5, 6.5, 8, 7], "texture": "#0"},
+				"up": {"uv": [7.5, 6.5, 8, 7], "texture": "#0"},
+				"down": {"uv": [7.5, 6.5, 8, 7], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_48",
+			"from": [8, 9, 0],
+			"to": [8.5, 9.5, 0.5],
+			"faces": {
+				"north": {"uv": [8.5, 6.5, 8, 7], "texture": "#0"},
+				"east": {"uv": [8, 6.5, 8.5, 7], "texture": "#0"},
+				"south": {"uv": [8, 6.5, 8.5, 7], "texture": "#0"},
+				"west": {"uv": [8, 6.5, 8.5, 7], "texture": "#0"},
+				"up": {"uv": [8, 6.5, 8.5, 7], "texture": "#0"},
+				"down": {"uv": [8, 6.5, 8.5, 7], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_49",
+			"from": [8.5, 9, 0],
+			"to": [9, 9.5, 0.5],
+			"faces": {
+				"north": {"uv": [9, 6.5, 8.5, 7], "texture": "#0"},
+				"east": {"uv": [8.5, 6.5, 9, 7], "texture": "#0"},
+				"south": {"uv": [8.5, 6.5, 9, 7], "texture": "#0"},
+				"west": {"uv": [8.5, 6.5, 9, 7], "texture": "#0"},
+				"up": {"uv": [8.5, 6.5, 9, 7], "texture": "#0"},
+				"down": {"uv": [8.5, 6.5, 9, 7], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_50",
+			"from": [9, 9, 0.1],
+			"to": [9.5, 9.5, 0.4],
+			"faces": {
+				"north": {"uv": [9.5, 6.5, 9, 7], "texture": "#0"},
+				"east": {"uv": [9, 6.5, 9.5, 7], "texture": "#0"},
+				"south": {"uv": [9, 6.5, 9.5, 7], "texture": "#0"},
+				"west": {"uv": [9, 6.5, 9.5, 7], "texture": "#0"},
+				"up": {"uv": [9, 6.5, 9.5, 7], "texture": "#0"},
+				"down": {"uv": [9, 6.5, 9.5, 7], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_51",
+			"from": [6.5, 8.5, 0.1],
+			"to": [7, 9, 0.4],
+			"faces": {
+				"north": {"uv": [7, 7, 6.5, 7.5], "texture": "#0"},
+				"east": {"uv": [6.5, 7, 7, 7.5], "texture": "#0"},
+				"south": {"uv": [6.5, 7, 7, 7.5], "texture": "#0"},
+				"west": {"uv": [6.5, 7, 7, 7.5], "texture": "#0"},
+				"up": {"uv": [6.5, 7, 7, 7.5], "texture": "#0"},
+				"down": {"uv": [6.5, 7, 7, 7.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_52",
+			"from": [7, 8.5, 0],
+			"to": [7.5, 9, 0.5],
+			"faces": {
+				"north": {"uv": [7.5, 7, 7, 7.5], "texture": "#0"},
+				"east": {"uv": [7, 7, 7.5, 7.5], "texture": "#0"},
+				"south": {"uv": [7, 7, 7.5, 7.5], "texture": "#0"},
+				"west": {"uv": [7, 7, 7.5, 7.5], "texture": "#0"},
+				"up": {"uv": [7, 7, 7.5, 7.5], "texture": "#0"},
+				"down": {"uv": [7, 7, 7.5, 7.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_53",
+			"from": [7.5, 8.5, 0],
+			"to": [8, 9, 0.5],
+			"faces": {
+				"north": {"uv": [8, 7, 7.5, 7.5], "texture": "#0"},
+				"east": {"uv": [7.5, 7, 8, 7.5], "texture": "#0"},
+				"south": {"uv": [7.5, 7, 8, 7.5], "texture": "#0"},
+				"west": {"uv": [7.5, 7, 8, 7.5], "texture": "#0"},
+				"up": {"uv": [7.5, 7, 8, 7.5], "texture": "#0"},
+				"down": {"uv": [7.5, 7, 8, 7.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_54",
+			"from": [8, 8.5, 0],
+			"to": [8.5, 9, 0.5],
+			"faces": {
+				"north": {"uv": [8.5, 7, 8, 7.5], "texture": "#0"},
+				"east": {"uv": [8, 7, 8.5, 7.5], "texture": "#0"},
+				"south": {"uv": [8, 7, 8.5, 7.5], "texture": "#0"},
+				"west": {"uv": [8, 7, 8.5, 7.5], "texture": "#0"},
+				"up": {"uv": [8, 7, 8.5, 7.5], "texture": "#0"},
+				"down": {"uv": [8, 7, 8.5, 7.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_55",
+			"from": [8.5, 8.5, 0],
+			"to": [9, 9, 0.5],
+			"faces": {
+				"north": {"uv": [9, 7, 8.5, 7.5], "texture": "#0"},
+				"east": {"uv": [8.5, 7, 9, 7.5], "texture": "#0"},
+				"south": {"uv": [8.5, 7, 9, 7.5], "texture": "#0"},
+				"west": {"uv": [8.5, 7, 9, 7.5], "texture": "#0"},
+				"up": {"uv": [8.5, 7, 9, 7.5], "texture": "#0"},
+				"down": {"uv": [8.5, 7, 9, 7.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_56",
+			"from": [9, 8.5, 0.1],
+			"to": [9.5, 9, 0.4],
+			"faces": {
+				"north": {"uv": [9.5, 7, 9, 7.5], "texture": "#0"},
+				"east": {"uv": [9, 7, 9.5, 7.5], "texture": "#0"},
+				"south": {"uv": [9, 7, 9.5, 7.5], "texture": "#0"},
+				"west": {"uv": [9, 7, 9.5, 7.5], "texture": "#0"},
+				"up": {"uv": [9, 7, 9.5, 7.5], "texture": "#0"},
+				"down": {"uv": [9, 7, 9.5, 7.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_57",
+			"from": [6, 8, 0.1],
+			"to": [6.5, 8.5, 0.4],
+			"faces": {
+				"north": {"uv": [6.5, 7.5, 6, 8], "texture": "#0"},
+				"east": {"uv": [6, 7.5, 6.5, 8], "texture": "#0"},
+				"south": {"uv": [6, 7.5, 6.5, 8], "texture": "#0"},
+				"west": {"uv": [6, 7.5, 6.5, 8], "texture": "#0"},
+				"up": {"uv": [6, 7.5, 6.5, 8], "texture": "#0"},
+				"down": {"uv": [6, 7.5, 6.5, 8], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_58",
+			"from": [6.5, 8, 0],
+			"to": [7, 8.5, 0.5],
+			"faces": {
+				"north": {"uv": [7, 7.5, 6.5, 8], "texture": "#0"},
+				"east": {"uv": [6.5, 7.5, 7, 8], "texture": "#0"},
+				"south": {"uv": [6.5, 7.5, 7, 8], "texture": "#0"},
+				"west": {"uv": [6.5, 7.5, 7, 8], "texture": "#0"},
+				"up": {"uv": [6.5, 7.5, 7, 8], "texture": "#0"},
+				"down": {"uv": [6.5, 7.5, 7, 8], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_59",
+			"from": [7, 8, 0],
+			"to": [7.5, 8.5, 0.5],
+			"faces": {
+				"north": {"uv": [7.5, 7.5, 7, 8], "texture": "#0"},
+				"east": {"uv": [7, 7.5, 7.5, 8], "texture": "#0"},
+				"south": {"uv": [7, 7.5, 7.5, 8], "texture": "#0"},
+				"west": {"uv": [7, 7.5, 7.5, 8], "texture": "#0"},
+				"up": {"uv": [7, 7.5, 7.5, 8], "texture": "#0"},
+				"down": {"uv": [7, 7.5, 7.5, 8], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_60",
+			"from": [7.5, 8, 0],
+			"to": [8, 8.5, 0.5],
+			"faces": {
+				"north": {"uv": [8, 7.5, 7.5, 8], "texture": "#0"},
+				"east": {"uv": [7.5, 7.5, 8, 8], "texture": "#0"},
+				"south": {"uv": [7.5, 7.5, 8, 8], "texture": "#0"},
+				"west": {"uv": [7.5, 7.5, 8, 8], "texture": "#0"},
+				"up": {"uv": [7.5, 7.5, 8, 8], "texture": "#0"},
+				"down": {"uv": [7.5, 7.5, 8, 8], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_61",
+			"from": [8, 8, 0],
+			"to": [8.5, 8.5, 0.5],
+			"faces": {
+				"north": {"uv": [8.5, 7.5, 8, 8], "texture": "#0"},
+				"east": {"uv": [8, 7.5, 8.5, 8], "texture": "#0"},
+				"south": {"uv": [8, 7.5, 8.5, 8], "texture": "#0"},
+				"west": {"uv": [8, 7.5, 8.5, 8], "texture": "#0"},
+				"up": {"uv": [8, 7.5, 8.5, 8], "texture": "#0"},
+				"down": {"uv": [8, 7.5, 8.5, 8], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_62",
+			"from": [8.5, 8, 0.1],
+			"to": [9, 8.5, 0.4],
+			"faces": {
+				"north": {"uv": [9, 7.5, 8.5, 8], "texture": "#0"},
+				"east": {"uv": [8.5, 7.5, 9, 8], "texture": "#0"},
+				"south": {"uv": [8.5, 7.5, 9, 8], "texture": "#0"},
+				"west": {"uv": [8.5, 7.5, 9, 8], "texture": "#0"},
+				"up": {"uv": [8.5, 7.5, 9, 8], "texture": "#0"},
+				"down": {"uv": [8.5, 7.5, 9, 8], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_63",
+			"from": [6, 7.5, 0.1],
+			"to": [6.5, 8, 0.4],
+			"faces": {
+				"north": {"uv": [6.5, 8, 6, 8.5], "texture": "#0"},
+				"east": {"uv": [6, 8, 6.5, 8.5], "texture": "#0"},
+				"south": {"uv": [6, 8, 6.5, 8.5], "texture": "#0"},
+				"west": {"uv": [6, 8, 6.5, 8.5], "texture": "#0"},
+				"up": {"uv": [6, 8, 6.5, 8.5], "texture": "#0"},
+				"down": {"uv": [6, 8, 6.5, 8.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_64",
+			"from": [6.5, 7.5, 0],
+			"to": [7, 8, 0.5],
+			"faces": {
+				"north": {"uv": [7, 8, 6.5, 8.5], "texture": "#0"},
+				"east": {"uv": [6.5, 8, 7, 8.5], "texture": "#0"},
+				"south": {"uv": [6.5, 8, 7, 8.5], "texture": "#0"},
+				"west": {"uv": [6.5, 8, 7, 8.5], "texture": "#0"},
+				"up": {"uv": [6.5, 8, 7, 8.5], "texture": "#0"},
+				"down": {"uv": [6.5, 8, 7, 8.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_65",
+			"from": [7, 7.5, 0],
+			"to": [7.5, 8, 0.5],
+			"faces": {
+				"north": {"uv": [7.5, 8, 7, 8.5], "texture": "#0"},
+				"east": {"uv": [7, 8, 7.5, 8.5], "texture": "#0"},
+				"south": {"uv": [7, 8, 7.5, 8.5], "texture": "#0"},
+				"west": {"uv": [7, 8, 7.5, 8.5], "texture": "#0"},
+				"up": {"uv": [7, 8, 7.5, 8.5], "texture": "#0"},
+				"down": {"uv": [7, 8, 7.5, 8.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_66",
+			"from": [7.5, 7.5, 0],
+			"to": [8, 8, 0.5],
+			"faces": {
+				"north": {"uv": [8, 8, 7.5, 8.5], "texture": "#0"},
+				"east": {"uv": [7.5, 8, 8, 8.5], "texture": "#0"},
+				"south": {"uv": [7.5, 8, 8, 8.5], "texture": "#0"},
+				"west": {"uv": [7.5, 8, 8, 8.5], "texture": "#0"},
+				"up": {"uv": [7.5, 8, 8, 8.5], "texture": "#0"},
+				"down": {"uv": [7.5, 8, 8, 8.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_67",
+			"from": [8, 7.5, 0],
+			"to": [8.5, 8, 0.5],
+			"faces": {
+				"north": {"uv": [8.5, 8, 8, 8.5], "texture": "#0"},
+				"east": {"uv": [8, 8, 8.5, 8.5], "texture": "#0"},
+				"south": {"uv": [8, 8, 8.5, 8.5], "texture": "#0"},
+				"west": {"uv": [8, 8, 8.5, 8.5], "texture": "#0"},
+				"up": {"uv": [8, 8, 8.5, 8.5], "texture": "#0"},
+				"down": {"uv": [8, 8, 8.5, 8.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_68",
+			"from": [8.5, 7.5, 0.1],
+			"to": [9, 8, 0.4],
+			"faces": {
+				"north": {"uv": [9, 8, 8.5, 8.5], "texture": "#0"},
+				"east": {"uv": [8.5, 8, 9, 8.5], "texture": "#0"},
+				"south": {"uv": [8.5, 8, 9, 8.5], "texture": "#0"},
+				"west": {"uv": [8.5, 8, 9, 8.5], "texture": "#0"},
+				"up": {"uv": [8.5, 8, 9, 8.5], "texture": "#0"},
+				"down": {"uv": [8.5, 8, 9, 8.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_69",
+			"from": [5.5, 7, 0.1],
+			"to": [6, 7.5, 0.4],
+			"faces": {
+				"north": {"uv": [6, 8.5, 5.5, 9], "texture": "#0"},
+				"east": {"uv": [5.5, 8.5, 6, 9], "texture": "#0"},
+				"south": {"uv": [5.5, 8.5, 6, 9], "texture": "#0"},
+				"west": {"uv": [5.5, 8.5, 6, 9], "texture": "#0"},
+				"up": {"uv": [5.5, 8.5, 6, 9], "texture": "#0"},
+				"down": {"uv": [5.5, 8.5, 6, 9], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_70",
+			"from": [6, 7, 0],
+			"to": [6.5, 7.5, 0.5],
+			"faces": {
+				"north": {"uv": [6.5, 8.5, 6, 9], "texture": "#0"},
+				"east": {"uv": [6, 8.5, 6.5, 9], "texture": "#0"},
+				"south": {"uv": [6, 8.5, 6.5, 9], "texture": "#0"},
+				"west": {"uv": [6, 8.5, 6.5, 9], "texture": "#0"},
+				"up": {"uv": [6, 8.5, 6.5, 9], "texture": "#0"},
+				"down": {"uv": [6, 8.5, 6.5, 9], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_71",
+			"from": [6.5, 7, 0],
+			"to": [7, 7.5, 0.5],
+			"faces": {
+				"north": {"uv": [7, 8.5, 6.5, 9], "texture": "#0"},
+				"east": {"uv": [6.5, 8.5, 7, 9], "texture": "#0"},
+				"south": {"uv": [6.5, 8.5, 7, 9], "texture": "#0"},
+				"west": {"uv": [6.5, 8.5, 7, 9], "texture": "#0"},
+				"up": {"uv": [6.5, 8.5, 7, 9], "texture": "#0"},
+				"down": {"uv": [6.5, 8.5, 7, 9], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_72",
+			"from": [7, 7, 0],
+			"to": [7.5, 7.5, 0.5],
+			"faces": {
+				"north": {"uv": [7.5, 8.5, 7, 9], "texture": "#0"},
+				"east": {"uv": [7, 8.5, 7.5, 9], "texture": "#0"},
+				"south": {"uv": [7, 8.5, 7.5, 9], "texture": "#0"},
+				"west": {"uv": [7, 8.5, 7.5, 9], "texture": "#0"},
+				"up": {"uv": [7, 8.5, 7.5, 9], "texture": "#0"},
+				"down": {"uv": [7, 8.5, 7.5, 9], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_73",
+			"from": [7.5, 7, 0],
+			"to": [8, 7.5, 0.5],
+			"faces": {
+				"north": {"uv": [8, 8.5, 7.5, 9], "texture": "#0"},
+				"east": {"uv": [7.5, 8.5, 8, 9], "texture": "#0"},
+				"south": {"uv": [7.5, 8.5, 8, 9], "texture": "#0"},
+				"west": {"uv": [7.5, 8.5, 8, 9], "texture": "#0"},
+				"up": {"uv": [7.5, 8.5, 8, 9], "texture": "#0"},
+				"down": {"uv": [7.5, 8.5, 8, 9], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_74",
+			"from": [8, 7, 0.1],
+			"to": [8.5, 7.5, 0.4],
+			"faces": {
+				"north": {"uv": [8.5, 8.5, 8, 9], "texture": "#0"},
+				"east": {"uv": [8, 8.5, 8.5, 9], "texture": "#0"},
+				"south": {"uv": [8, 8.5, 8.5, 9], "texture": "#0"},
+				"west": {"uv": [8, 8.5, 8.5, 9], "texture": "#0"},
+				"up": {"uv": [8, 8.5, 8.5, 9], "texture": "#0"},
+				"down": {"uv": [8, 8.5, 8.5, 9], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_75",
+			"from": [5.5, 6.5, 0.1],
+			"to": [6, 7, 0.4],
+			"faces": {
+				"north": {"uv": [6, 9, 5.5, 9.5], "texture": "#0"},
+				"east": {"uv": [5.5, 9, 6, 9.5], "texture": "#0"},
+				"south": {"uv": [5.5, 9, 6, 9.5], "texture": "#0"},
+				"west": {"uv": [5.5, 9, 6, 9.5], "texture": "#0"},
+				"up": {"uv": [5.5, 9, 6, 9.5], "texture": "#0"},
+				"down": {"uv": [5.5, 9, 6, 9.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_76",
+			"from": [6, 6.5, 0],
+			"to": [6.5, 7, 0.5],
+			"faces": {
+				"north": {"uv": [6.5, 9, 6, 9.5], "texture": "#0"},
+				"east": {"uv": [6, 9, 6.5, 9.5], "texture": "#0"},
+				"south": {"uv": [6, 9, 6.5, 9.5], "texture": "#0"},
+				"west": {"uv": [6, 9, 6.5, 9.5], "texture": "#0"},
+				"up": {"uv": [6, 9, 6.5, 9.5], "texture": "#0"},
+				"down": {"uv": [6, 9, 6.5, 9.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_77",
+			"from": [6.5, 6.5, 0],
+			"to": [7, 7, 0.5],
+			"faces": {
+				"north": {"uv": [7, 9, 6.5, 9.5], "texture": "#0"},
+				"east": {"uv": [6.5, 9, 7, 9.5], "texture": "#0"},
+				"south": {"uv": [6.5, 9, 7, 9.5], "texture": "#0"},
+				"west": {"uv": [6.5, 9, 7, 9.5], "texture": "#0"},
+				"up": {"uv": [6.5, 9, 7, 9.5], "texture": "#0"},
+				"down": {"uv": [6.5, 9, 7, 9.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_78",
+			"from": [7, 6.5, 0],
+			"to": [7.5, 7, 0.5],
+			"faces": {
+				"north": {"uv": [7.5, 9, 7, 9.5], "texture": "#0"},
+				"east": {"uv": [7, 9, 7.5, 9.5], "texture": "#0"},
+				"south": {"uv": [7, 9, 7.5, 9.5], "texture": "#0"},
+				"west": {"uv": [7, 9, 7.5, 9.5], "texture": "#0"},
+				"up": {"uv": [7, 9, 7.5, 9.5], "texture": "#0"},
+				"down": {"uv": [7, 9, 7.5, 9.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_79",
+			"from": [7.5, 6.5, 0],
+			"to": [8, 7, 0.5],
+			"faces": {
+				"north": {"uv": [8, 9, 7.5, 9.5], "texture": "#0"},
+				"east": {"uv": [7.5, 9, 8, 9.5], "texture": "#0"},
+				"south": {"uv": [7.5, 9, 8, 9.5], "texture": "#0"},
+				"west": {"uv": [7.5, 9, 8, 9.5], "texture": "#0"},
+				"up": {"uv": [7.5, 9, 8, 9.5], "texture": "#0"},
+				"down": {"uv": [7.5, 9, 8, 9.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_80",
+			"from": [8, 6.5, 0.1],
+			"to": [8.5, 7, 0.4],
+			"faces": {
+				"north": {"uv": [8.5, 9, 8, 9.5], "texture": "#0"},
+				"east": {"uv": [8, 9, 8.5, 9.5], "texture": "#0"},
+				"south": {"uv": [8, 9, 8.5, 9.5], "texture": "#0"},
+				"west": {"uv": [8, 9, 8.5, 9.5], "texture": "#0"},
+				"up": {"uv": [8, 9, 8.5, 9.5], "texture": "#0"},
+				"down": {"uv": [8, 9, 8.5, 9.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_81",
+			"from": [5, 6, 0.1],
+			"to": [5.5, 6.5, 0.4],
+			"faces": {
+				"north": {"uv": [5.5, 9.5, 5, 10], "texture": "#0"},
+				"east": {"uv": [5, 9.5, 5.5, 10], "texture": "#0"},
+				"south": {"uv": [5, 9.5, 5.5, 10], "texture": "#0"},
+				"west": {"uv": [5, 9.5, 5.5, 10], "texture": "#0"},
+				"up": {"uv": [5, 9.5, 5.5, 10], "texture": "#0"},
+				"down": {"uv": [5, 9.5, 5.5, 10], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_82",
+			"from": [5.5, 6, 0],
+			"to": [6, 6.5, 0.5],
+			"faces": {
+				"north": {"uv": [6, 9.5, 5.5, 10], "texture": "#0"},
+				"east": {"uv": [5.5, 9.5, 6, 10], "texture": "#0"},
+				"south": {"uv": [5.5, 9.5, 6, 10], "texture": "#0"},
+				"west": {"uv": [5.5, 9.5, 6, 10], "texture": "#0"},
+				"up": {"uv": [5.5, 9.5, 6, 10], "texture": "#0"},
+				"down": {"uv": [5.5, 9.5, 6, 10], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_83",
+			"from": [6, 6, 0],
+			"to": [6.5, 6.5, 0.5],
+			"faces": {
+				"north": {"uv": [6.5, 9.5, 6, 10], "texture": "#0"},
+				"east": {"uv": [6, 9.5, 6.5, 10], "texture": "#0"},
+				"south": {"uv": [6, 9.5, 6.5, 10], "texture": "#0"},
+				"west": {"uv": [6, 9.5, 6.5, 10], "texture": "#0"},
+				"up": {"uv": [6, 9.5, 6.5, 10], "texture": "#0"},
+				"down": {"uv": [6, 9.5, 6.5, 10], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_84",
+			"from": [6.5, 6, 0],
+			"to": [7, 6.5, 0.5],
+			"faces": {
+				"north": {"uv": [7, 9.5, 6.5, 10], "texture": "#0"},
+				"east": {"uv": [6.5, 9.5, 7, 10], "texture": "#0"},
+				"south": {"uv": [6.5, 9.5, 7, 10], "texture": "#0"},
+				"west": {"uv": [6.5, 9.5, 7, 10], "texture": "#0"},
+				"up": {"uv": [6.5, 9.5, 7, 10], "texture": "#0"},
+				"down": {"uv": [6.5, 9.5, 7, 10], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_85",
+			"from": [7, 6, 0],
+			"to": [7.5, 6.5, 0.5],
+			"faces": {
+				"north": {"uv": [7.5, 9.5, 7, 10], "texture": "#0"},
+				"east": {"uv": [7, 9.5, 7.5, 10], "texture": "#0"},
+				"south": {"uv": [7, 9.5, 7.5, 10], "texture": "#0"},
+				"west": {"uv": [7, 9.5, 7.5, 10], "texture": "#0"},
+				"up": {"uv": [7, 9.5, 7.5, 10], "texture": "#0"},
+				"down": {"uv": [7, 9.5, 7.5, 10], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_86",
+			"from": [7.5, 6, 0.1],
+			"to": [8, 6.5, 0.4],
+			"faces": {
+				"north": {"uv": [8, 9.5, 7.5, 10], "texture": "#0"},
+				"east": {"uv": [7.5, 9.5, 8, 10], "texture": "#0"},
+				"south": {"uv": [7.5, 9.5, 8, 10], "texture": "#0"},
+				"west": {"uv": [7.5, 9.5, 8, 10], "texture": "#0"},
+				"up": {"uv": [7.5, 9.5, 8, 10], "texture": "#0"},
+				"down": {"uv": [7.5, 9.5, 8, 10], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_87",
+			"from": [2.5, 5.5, 0.1],
+			"to": [3, 6, 0.4],
+			"faces": {
+				"north": {"uv": [3, 10, 2.5, 10.5], "texture": "#0"},
+				"east": {"uv": [2.5, 10, 3, 10.5], "texture": "#0"},
+				"south": {"uv": [2.5, 10, 3, 10.5], "texture": "#0"},
+				"west": {"uv": [2.5, 10, 3, 10.5], "texture": "#0"},
+				"up": {"uv": [2.5, 10, 3, 10.5], "texture": "#0"},
+				"down": {"uv": [2.5, 10, 3, 10.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_88",
+			"from": [4.5, 5.5, 0.1],
+			"to": [5, 6, 0.4],
+			"faces": {
+				"north": {"uv": [5, 10, 4.5, 10.5], "texture": "#0"},
+				"east": {"uv": [4.5, 10, 5, 10.5], "texture": "#0"},
+				"south": {"uv": [4.5, 10, 5, 10.5], "texture": "#0"},
+				"west": {"uv": [4.5, 10, 5, 10.5], "texture": "#0"},
+				"up": {"uv": [4.5, 10, 5, 10.5], "texture": "#0"},
+				"down": {"uv": [4.5, 10, 5, 10.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_89",
+			"from": [5, 5.5, 0],
+			"to": [5.5, 6, 0.5],
+			"faces": {
+				"north": {"uv": [5.5, 10, 5, 10.5], "texture": "#0"},
+				"east": {"uv": [5, 10, 5.5, 10.5], "texture": "#0"},
+				"south": {"uv": [5, 10, 5.5, 10.5], "texture": "#0"},
+				"west": {"uv": [5, 10, 5.5, 10.5], "texture": "#0"},
+				"up": {"uv": [5, 10, 5.5, 10.5], "texture": "#0"},
+				"down": {"uv": [5, 10, 5.5, 10.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_90",
+			"from": [5.5, 5.5, 0],
+			"to": [6, 6, 0.5],
+			"faces": {
+				"north": {"uv": [6, 10, 5.5, 10.5], "texture": "#0"},
+				"east": {"uv": [5.5, 10, 6, 10.5], "texture": "#0"},
+				"south": {"uv": [5.5, 10, 6, 10.5], "texture": "#0"},
+				"west": {"uv": [5.5, 10, 6, 10.5], "texture": "#0"},
+				"up": {"uv": [5.5, 10, 6, 10.5], "texture": "#0"},
+				"down": {"uv": [5.5, 10, 6, 10.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_91",
+			"from": [6, 5.5, 0],
+			"to": [6.5, 6, 0.5],
+			"faces": {
+				"north": {"uv": [6.5, 10, 6, 10.5], "texture": "#0"},
+				"east": {"uv": [6, 10, 6.5, 10.5], "texture": "#0"},
+				"south": {"uv": [6, 10, 6.5, 10.5], "texture": "#0"},
+				"west": {"uv": [6, 10, 6.5, 10.5], "texture": "#0"},
+				"up": {"uv": [6, 10, 6.5, 10.5], "texture": "#0"},
+				"down": {"uv": [6, 10, 6.5, 10.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_92",
+			"from": [6.5, 5.5, 0],
+			"to": [7, 6, 0.5],
+			"faces": {
+				"north": {"uv": [7, 10, 6.5, 10.5], "texture": "#0"},
+				"east": {"uv": [6.5, 10, 7, 10.5], "texture": "#0"},
+				"south": {"uv": [6.5, 10, 7, 10.5], "texture": "#0"},
+				"west": {"uv": [6.5, 10, 7, 10.5], "texture": "#0"},
+				"up": {"uv": [6.5, 10, 7, 10.5], "texture": "#0"},
+				"down": {"uv": [6.5, 10, 7, 10.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_93",
+			"from": [7, 5.5, 0.1],
+			"to": [7.5, 6, 0.4],
+			"faces": {
+				"north": {"uv": [7.5, 10, 7, 10.5], "texture": "#0"},
+				"east": {"uv": [7, 10, 7.5, 10.5], "texture": "#0"},
+				"south": {"uv": [7, 10, 7.5, 10.5], "texture": "#0"},
+				"west": {"uv": [7, 10, 7.5, 10.5], "texture": "#0"},
+				"up": {"uv": [7, 10, 7.5, 10.5], "texture": "#0"},
+				"down": {"uv": [7, 10, 7.5, 10.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_94",
+			"from": [2, 5, 0.1],
+			"to": [2.5, 5.5, 0.4],
+			"faces": {
+				"north": {"uv": [2.5, 10.5, 2, 11], "texture": "#0"},
+				"east": {"uv": [2, 10.5, 2.5, 11], "texture": "#0"},
+				"south": {"uv": [2, 10.5, 2.5, 11], "texture": "#0"},
+				"west": {"uv": [2, 10.5, 2.5, 11], "texture": "#0"},
+				"up": {"uv": [2, 10.5, 2.5, 11], "texture": "#0"},
+				"down": {"uv": [2, 10.5, 2.5, 11], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_95",
+			"from": [4, 5, 0.1],
+			"to": [4.5, 5.5, 0.4],
+			"faces": {
+				"north": {"uv": [4.5, 10.5, 4, 11], "texture": "#0"},
+				"east": {"uv": [4, 10.5, 4.5, 11], "texture": "#0"},
+				"south": {"uv": [4, 10.5, 4.5, 11], "texture": "#0"},
+				"west": {"uv": [4, 10.5, 4.5, 11], "texture": "#0"},
+				"up": {"uv": [4, 10.5, 4.5, 11], "texture": "#0"},
+				"down": {"uv": [4, 10.5, 4.5, 11], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_96",
+			"from": [4.5, 5, 0],
+			"to": [5, 5.5, 0.5],
+			"faces": {
+				"north": {"uv": [5, 10.5, 4.5, 11], "texture": "#0"},
+				"east": {"uv": [4.5, 10.5, 5, 11], "texture": "#0"},
+				"south": {"uv": [4.5, 10.5, 5, 11], "texture": "#0"},
+				"west": {"uv": [4.5, 10.5, 5, 11], "texture": "#0"},
+				"up": {"uv": [4.5, 10.5, 5, 11], "texture": "#0"},
+				"down": {"uv": [4.5, 10.5, 5, 11], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_97",
+			"from": [5, 5, 0],
+			"to": [5.5, 5.5, 0.5],
+			"faces": {
+				"north": {"uv": [5.5, 10.5, 5, 11], "texture": "#0"},
+				"east": {"uv": [5, 10.5, 5.5, 11], "texture": "#0"},
+				"south": {"uv": [5, 10.5, 5.5, 11], "texture": "#0"},
+				"west": {"uv": [5, 10.5, 5.5, 11], "texture": "#0"},
+				"up": {"uv": [5, 10.5, 5.5, 11], "texture": "#0"},
+				"down": {"uv": [5, 10.5, 5.5, 11], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_98",
+			"from": [5.5, 5, 0],
+			"to": [6, 5.5, 0.5],
+			"faces": {
+				"north": {"uv": [6, 10.5, 5.5, 11], "texture": "#0"},
+				"east": {"uv": [5.5, 10.5, 6, 11], "texture": "#0"},
+				"south": {"uv": [5.5, 10.5, 6, 11], "texture": "#0"},
+				"west": {"uv": [5.5, 10.5, 6, 11], "texture": "#0"},
+				"up": {"uv": [5.5, 10.5, 6, 11], "texture": "#0"},
+				"down": {"uv": [5.5, 10.5, 6, 11], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_99",
+			"from": [6, 5, 0],
+			"to": [6.5, 5.5, 0.5],
+			"faces": {
+				"north": {"uv": [6.5, 10.5, 6, 11], "texture": "#0"},
+				"east": {"uv": [6, 10.5, 6.5, 11], "texture": "#0"},
+				"south": {"uv": [6, 10.5, 6.5, 11], "texture": "#0"},
+				"west": {"uv": [6, 10.5, 6.5, 11], "texture": "#0"},
+				"up": {"uv": [6, 10.5, 6.5, 11], "texture": "#0"},
+				"down": {"uv": [6, 10.5, 6.5, 11], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_100",
+			"from": [6.5, 5, 0.1],
+			"to": [7, 5.5, 0.4],
+			"faces": {
+				"north": {"uv": [7, 10.5, 6.5, 11], "texture": "#0"},
+				"east": {"uv": [6.5, 10.5, 7, 11], "texture": "#0"},
+				"south": {"uv": [6.5, 10.5, 7, 11], "texture": "#0"},
+				"west": {"uv": [6.5, 10.5, 7, 11], "texture": "#0"},
+				"up": {"uv": [6.5, 10.5, 7, 11], "texture": "#0"},
+				"down": {"uv": [6.5, 10.5, 7, 11], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_101",
+			"from": [2, 4.5, 0.1],
+			"to": [2.5, 5, 0.4],
+			"faces": {
+				"north": {"uv": [2.5, 11, 2, 11.5], "texture": "#0"},
+				"east": {"uv": [2, 11, 2.5, 11.5], "texture": "#0"},
+				"south": {"uv": [2, 11, 2.5, 11.5], "texture": "#0"},
+				"west": {"uv": [2, 11, 2.5, 11.5], "texture": "#0"},
+				"up": {"uv": [2, 11, 2.5, 11.5], "texture": "#0"},
+				"down": {"uv": [2, 11, 2.5, 11.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_102",
+			"from": [3.5, 4.5, 0.1],
+			"to": [4, 5, 0.4],
+			"faces": {
+				"north": {"uv": [4, 11, 3.5, 11.5], "texture": "#0"},
+				"east": {"uv": [3.5, 11, 4, 11.5], "texture": "#0"},
+				"south": {"uv": [3.5, 11, 4, 11.5], "texture": "#0"},
+				"west": {"uv": [3.5, 11, 4, 11.5], "texture": "#0"},
+				"up": {"uv": [3.5, 11, 4, 11.5], "texture": "#0"},
+				"down": {"uv": [3.5, 11, 4, 11.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_103",
+			"from": [4, 4.5, 0],
+			"to": [4.5, 5, 0.5],
+			"faces": {
+				"north": {"uv": [4.5, 11, 4, 11.5], "texture": "#0"},
+				"east": {"uv": [4, 11, 4.5, 11.5], "texture": "#0"},
+				"south": {"uv": [4, 11, 4.5, 11.5], "texture": "#0"},
+				"west": {"uv": [4, 11, 4.5, 11.5], "texture": "#0"},
+				"up": {"uv": [4, 11, 4.5, 11.5], "texture": "#0"},
+				"down": {"uv": [4, 11, 4.5, 11.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_104",
+			"from": [4.5, 4.5, 0],
+			"to": [5, 5, 0.5],
+			"faces": {
+				"north": {"uv": [5, 11, 4.5, 11.5], "texture": "#0"},
+				"east": {"uv": [4.5, 11, 5, 11.5], "texture": "#0"},
+				"south": {"uv": [4.5, 11, 5, 11.5], "texture": "#0"},
+				"west": {"uv": [4.5, 11, 5, 11.5], "texture": "#0"},
+				"up": {"uv": [4.5, 11, 5, 11.5], "texture": "#0"},
+				"down": {"uv": [4.5, 11, 5, 11.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_105",
+			"from": [5, 4.5, 0],
+			"to": [5.5, 5, 0.5],
+			"faces": {
+				"north": {"uv": [5.5, 11, 5, 11.5], "texture": "#0"},
+				"east": {"uv": [5, 11, 5.5, 11.5], "texture": "#0"},
+				"south": {"uv": [5, 11, 5.5, 11.5], "texture": "#0"},
+				"west": {"uv": [5, 11, 5.5, 11.5], "texture": "#0"},
+				"up": {"uv": [5, 11, 5.5, 11.5], "texture": "#0"},
+				"down": {"uv": [5, 11, 5.5, 11.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_106",
+			"from": [5.5, 4.5, 0],
+			"to": [6, 5, 0.5],
+			"faces": {
+				"north": {"uv": [6, 11, 5.5, 11.5], "texture": "#0"},
+				"east": {"uv": [5.5, 11, 6, 11.5], "texture": "#0"},
+				"south": {"uv": [5.5, 11, 6, 11.5], "texture": "#0"},
+				"west": {"uv": [5.5, 11, 6, 11.5], "texture": "#0"},
+				"up": {"uv": [5.5, 11, 6, 11.5], "texture": "#0"},
+				"down": {"uv": [5.5, 11, 6, 11.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_107",
+			"from": [6, 4.5, 0.1],
+			"to": [6.5, 5, 0.4],
+			"faces": {
+				"north": {"uv": [6.5, 11, 6, 11.5], "texture": "#0"},
+				"east": {"uv": [6, 11, 6.5, 11.5], "texture": "#0"},
+				"south": {"uv": [6, 11, 6.5, 11.5], "texture": "#0"},
+				"west": {"uv": [6, 11, 6.5, 11.5], "texture": "#0"},
+				"up": {"uv": [6, 11, 6.5, 11.5], "texture": "#0"},
+				"down": {"uv": [6, 11, 6.5, 11.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_108",
+			"from": [2, 4, 0.1],
+			"to": [2.5, 4.5, 0.4],
+			"faces": {
+				"north": {"uv": [2.5, 11.5, 2, 12], "texture": "#0"},
+				"east": {"uv": [2, 11.5, 2.5, 12], "texture": "#0"},
+				"south": {"uv": [2, 11.5, 2.5, 12], "texture": "#0"},
+				"west": {"uv": [2, 11.5, 2.5, 12], "texture": "#0"},
+				"up": {"uv": [2, 11.5, 2.5, 12], "texture": "#0"},
+				"down": {"uv": [2, 11.5, 2.5, 12], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_109",
+			"from": [2.5, 4, 0.1],
+			"to": [3, 4.5, 0.4],
+			"faces": {
+				"north": {"uv": [3, 11.5, 2.5, 12], "texture": "#0"},
+				"east": {"uv": [2.5, 11.5, 3, 12], "texture": "#0"},
+				"south": {"uv": [2.5, 11.5, 3, 12], "texture": "#0"},
+				"west": {"uv": [2.5, 11.5, 3, 12], "texture": "#0"},
+				"up": {"uv": [2.5, 11.5, 3, 12], "texture": "#0"},
+				"down": {"uv": [2.5, 11.5, 3, 12], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_110",
+			"from": [3, 4, 0.1],
+			"to": [3.5, 4.5, 0.4],
+			"faces": {
+				"north": {"uv": [3.5, 11.5, 3, 12], "texture": "#0"},
+				"east": {"uv": [3, 11.5, 3.5, 12], "texture": "#0"},
+				"south": {"uv": [3, 11.5, 3.5, 12], "texture": "#0"},
+				"west": {"uv": [3, 11.5, 3.5, 12], "texture": "#0"},
+				"up": {"uv": [3, 11.5, 3.5, 12], "texture": "#0"},
+				"down": {"uv": [3, 11.5, 3.5, 12], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_111",
+			"from": [3.5, 4, 0],
+			"to": [4, 4.5, 0.5],
+			"faces": {
+				"north": {"uv": [4, 11.5, 3.5, 12], "texture": "#0"},
+				"east": {"uv": [3.5, 11.5, 4, 12], "texture": "#0"},
+				"south": {"uv": [3.5, 11.5, 4, 12], "texture": "#0"},
+				"west": {"uv": [3.5, 11.5, 4, 12], "texture": "#0"},
+				"up": {"uv": [3.5, 11.5, 4, 12], "texture": "#0"},
+				"down": {"uv": [3.5, 11.5, 4, 12], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_112",
+			"from": [4, 4, 0],
+			"to": [4.5, 4.5, 0.5],
+			"faces": {
+				"north": {"uv": [4.5, 11.5, 4, 12], "texture": "#0"},
+				"east": {"uv": [4, 11.5, 4.5, 12], "texture": "#0"},
+				"south": {"uv": [4, 11.5, 4.5, 12], "texture": "#0"},
+				"west": {"uv": [4, 11.5, 4.5, 12], "texture": "#0"},
+				"up": {"uv": [4, 11.5, 4.5, 12], "texture": "#0"},
+				"down": {"uv": [4, 11.5, 4.5, 12], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_113",
+			"from": [4.5, 4, 0],
+			"to": [5, 4.5, 0.5],
+			"faces": {
+				"north": {"uv": [5, 11.5, 4.5, 12], "texture": "#0"},
+				"east": {"uv": [4.5, 11.5, 5, 12], "texture": "#0"},
+				"south": {"uv": [4.5, 11.5, 5, 12], "texture": "#0"},
+				"west": {"uv": [4.5, 11.5, 5, 12], "texture": "#0"},
+				"up": {"uv": [4.5, 11.5, 5, 12], "texture": "#0"},
+				"down": {"uv": [4.5, 11.5, 5, 12], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_114",
+			"from": [5, 4, 0],
+			"to": [5.5, 4.5, 0.5],
+			"faces": {
+				"north": {"uv": [5.5, 11.5, 5, 12], "texture": "#0"},
+				"east": {"uv": [5, 11.5, 5.5, 12], "texture": "#0"},
+				"south": {"uv": [5, 11.5, 5.5, 12], "texture": "#0"},
+				"west": {"uv": [5, 11.5, 5.5, 12], "texture": "#0"},
+				"up": {"uv": [5, 11.5, 5.5, 12], "texture": "#0"},
+				"down": {"uv": [5, 11.5, 5.5, 12], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_115",
+			"from": [5.5, 4, 0.1],
+			"to": [6, 4.5, 0.4],
+			"faces": {
+				"north": {"uv": [6, 11.5, 5.5, 12], "texture": "#0"},
+				"east": {"uv": [5.5, 11.5, 6, 12], "texture": "#0"},
+				"south": {"uv": [5.5, 11.5, 6, 12], "texture": "#0"},
+				"west": {"uv": [5.5, 11.5, 6, 12], "texture": "#0"},
+				"up": {"uv": [5.5, 11.5, 6, 12], "texture": "#0"},
+				"down": {"uv": [5.5, 11.5, 6, 12], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_116",
+			"from": [2.5, 3.5, 0.1],
+			"to": [3, 4, 0.4],
+			"faces": {
+				"north": {"uv": [3, 12, 2.5, 12.5], "texture": "#0"},
+				"east": {"uv": [2.5, 12, 3, 12.5], "texture": "#0"},
+				"south": {"uv": [2.5, 12, 3, 12.5], "texture": "#0"},
+				"west": {"uv": [2.5, 12, 3, 12.5], "texture": "#0"},
+				"up": {"uv": [2.5, 12, 3, 12.5], "texture": "#0"},
+				"down": {"uv": [2.5, 12, 3, 12.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_117",
+			"from": [3, 3.5, 0],
+			"to": [3.5, 4, 0.5],
+			"faces": {
+				"north": {"uv": [3.5, 12, 3, 12.5], "texture": "#0"},
+				"east": {"uv": [3, 12, 3.5, 12.5], "texture": "#0"},
+				"south": {"uv": [3, 12, 3.5, 12.5], "texture": "#0"},
+				"west": {"uv": [3, 12, 3.5, 12.5], "texture": "#0"},
+				"up": {"uv": [3, 12, 3.5, 12.5], "texture": "#0"},
+				"down": {"uv": [3, 12, 3.5, 12.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_118",
+			"from": [3.5, 3.5, 0],
+			"to": [4, 4, 0.5],
+			"faces": {
+				"north": {"uv": [4, 12, 3.5, 12.5], "texture": "#0"},
+				"east": {"uv": [3.5, 12, 4, 12.5], "texture": "#0"},
+				"south": {"uv": [3.5, 12, 4, 12.5], "texture": "#0"},
+				"west": {"uv": [3.5, 12, 4, 12.5], "texture": "#0"},
+				"up": {"uv": [3.5, 12, 4, 12.5], "texture": "#0"},
+				"down": {"uv": [3.5, 12, 4, 12.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_119",
+			"from": [4, 3.5, 0],
+			"to": [4.5, 4, 0.5],
+			"faces": {
+				"north": {"uv": [4.5, 12, 4, 12.5], "texture": "#0"},
+				"east": {"uv": [4, 12, 4.5, 12.5], "texture": "#0"},
+				"south": {"uv": [4, 12, 4.5, 12.5], "texture": "#0"},
+				"west": {"uv": [4, 12, 4.5, 12.5], "texture": "#0"},
+				"up": {"uv": [4, 12, 4.5, 12.5], "texture": "#0"},
+				"down": {"uv": [4, 12, 4.5, 12.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_120",
+			"from": [4.5, 3.5, 0],
+			"to": [5, 4, 0.5],
+			"faces": {
+				"north": {"uv": [5, 12, 4.5, 12.5], "texture": "#0"},
+				"east": {"uv": [4.5, 12, 5, 12.5], "texture": "#0"},
+				"south": {"uv": [4.5, 12, 5, 12.5], "texture": "#0"},
+				"west": {"uv": [4.5, 12, 5, 12.5], "texture": "#0"},
+				"up": {"uv": [4.5, 12, 5, 12.5], "texture": "#0"},
+				"down": {"uv": [4.5, 12, 5, 12.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_121",
+			"from": [5, 3.5, 0.1],
+			"to": [5.5, 4, 0.4],
+			"faces": {
+				"north": {"uv": [5.5, 12, 5, 12.5], "texture": "#0"},
+				"east": {"uv": [5, 12, 5.5, 12.5], "texture": "#0"},
+				"south": {"uv": [5, 12, 5.5, 12.5], "texture": "#0"},
+				"west": {"uv": [5, 12, 5.5, 12.5], "texture": "#0"},
+				"up": {"uv": [5, 12, 5.5, 12.5], "texture": "#0"},
+				"down": {"uv": [5, 12, 5.5, 12.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_122",
+			"from": [2.5, 3, 0.1],
+			"to": [3, 3.5, 0.4],
+			"faces": {
+				"north": {"uv": [3, 12.5, 2.5, 13], "texture": "#0"},
+				"east": {"uv": [2.5, 12.5, 3, 13], "texture": "#0"},
+				"south": {"uv": [2.5, 12.5, 3, 13], "texture": "#0"},
+				"west": {"uv": [2.5, 12.5, 3, 13], "texture": "#0"},
+				"up": {"uv": [2.5, 12.5, 3, 13], "texture": "#0"},
+				"down": {"uv": [2.5, 12.5, 3, 13], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_123",
+			"from": [3, 3, 0],
+			"to": [3.5, 3.5, 0.5],
+			"faces": {
+				"north": {"uv": [3.5, 12.5, 3, 13], "texture": "#0"},
+				"east": {"uv": [3, 12.5, 3.5, 13], "texture": "#0"},
+				"south": {"uv": [3, 12.5, 3.5, 13], "texture": "#0"},
+				"west": {"uv": [3, 12.5, 3.5, 13], "texture": "#0"},
+				"up": {"uv": [3, 12.5, 3.5, 13], "texture": "#0"},
+				"down": {"uv": [3, 12.5, 3.5, 13], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_124",
+			"from": [3.5, 3, 0],
+			"to": [4, 3.5, 0.5],
+			"faces": {
+				"north": {"uv": [4, 12.5, 3.5, 13], "texture": "#0"},
+				"east": {"uv": [3.5, 12.5, 4, 13], "texture": "#0"},
+				"south": {"uv": [3.5, 12.5, 4, 13], "texture": "#0"},
+				"west": {"uv": [3.5, 12.5, 4, 13], "texture": "#0"},
+				"up": {"uv": [3.5, 12.5, 4, 13], "texture": "#0"},
+				"down": {"uv": [3.5, 12.5, 4, 13], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_125",
+			"from": [4, 3, 0],
+			"to": [4.5, 3.5, 0.5],
+			"faces": {
+				"north": {"uv": [4.5, 12.5, 4, 13], "texture": "#0"},
+				"east": {"uv": [4, 12.5, 4.5, 13], "texture": "#0"},
+				"south": {"uv": [4, 12.5, 4.5, 13], "texture": "#0"},
+				"west": {"uv": [4, 12.5, 4.5, 13], "texture": "#0"},
+				"up": {"uv": [4, 12.5, 4.5, 13], "texture": "#0"},
+				"down": {"uv": [4, 12.5, 4.5, 13], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_126",
+			"from": [4.5, 3, 0.1],
+			"to": [5, 3.5, 0.4],
+			"faces": {
+				"north": {"uv": [5, 12.5, 4.5, 13], "texture": "#0"},
+				"east": {"uv": [4.5, 12.5, 5, 13], "texture": "#0"},
+				"south": {"uv": [4.5, 12.5, 5, 13], "texture": "#0"},
+				"west": {"uv": [4.5, 12.5, 5, 13], "texture": "#0"},
+				"up": {"uv": [4.5, 12.5, 5, 13], "texture": "#0"},
+				"down": {"uv": [4.5, 12.5, 5, 13], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_127",
+			"from": [2, 2.5, 0.1],
+			"to": [2.5, 3, 0.4],
+			"faces": {
+				"north": {"uv": [2.5, 13, 2, 13.5], "texture": "#0"},
+				"east": {"uv": [2, 13, 2.5, 13.5], "texture": "#0"},
+				"south": {"uv": [2, 13, 2.5, 13.5], "texture": "#0"},
+				"west": {"uv": [2, 13, 2.5, 13.5], "texture": "#0"},
+				"up": {"uv": [2, 13, 2.5, 13.5], "texture": "#0"},
+				"down": {"uv": [2, 13, 2.5, 13.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_128",
+			"from": [2.5, 2.5, 0],
+			"to": [3, 3, 0.5],
+			"faces": {
+				"north": {"uv": [3, 13, 2.5, 13.5], "texture": "#0"},
+				"east": {"uv": [2.5, 13, 3, 13.5], "texture": "#0"},
+				"south": {"uv": [2.5, 13, 3, 13.5], "texture": "#0"},
+				"west": {"uv": [2.5, 13, 3, 13.5], "texture": "#0"},
+				"up": {"uv": [2.5, 13, 3, 13.5], "texture": "#0"},
+				"down": {"uv": [2.5, 13, 3, 13.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_129",
+			"from": [3, 2.5, 0.1],
+			"to": [3.5, 3, 0.4],
+			"faces": {
+				"north": {"uv": [3.5, 13, 3, 13.5], "texture": "#0"},
+				"east": {"uv": [3, 13, 3.5, 13.5], "texture": "#0"},
+				"south": {"uv": [3, 13, 3.5, 13.5], "texture": "#0"},
+				"west": {"uv": [3, 13, 3.5, 13.5], "texture": "#0"},
+				"up": {"uv": [3, 13, 3.5, 13.5], "texture": "#0"},
+				"down": {"uv": [3, 13, 3.5, 13.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_130",
+			"from": [3.5, 2.5, 0.1],
+			"to": [4, 3, 0.4],
+			"faces": {
+				"north": {"uv": [4, 13, 3.5, 13.5], "texture": "#0"},
+				"east": {"uv": [3.5, 13, 4, 13.5], "texture": "#0"},
+				"south": {"uv": [3.5, 13, 4, 13.5], "texture": "#0"},
+				"west": {"uv": [3.5, 13, 4, 13.5], "texture": "#0"},
+				"up": {"uv": [3.5, 13, 4, 13.5], "texture": "#0"},
+				"down": {"uv": [3.5, 13, 4, 13.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_131",
+			"from": [4, 2.5, 0.1],
+			"to": [4.5, 3, 0.4],
+			"faces": {
+				"north": {"uv": [4.5, 13, 4, 13.5], "texture": "#0"},
+				"east": {"uv": [4, 13, 4.5, 13.5], "texture": "#0"},
+				"south": {"uv": [4, 13, 4.5, 13.5], "texture": "#0"},
+				"west": {"uv": [4, 13, 4.5, 13.5], "texture": "#0"},
+				"up": {"uv": [4, 13, 4.5, 13.5], "texture": "#0"},
+				"down": {"uv": [4, 13, 4.5, 13.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_132",
+			"from": [4.5, 2.5, 0.1],
+			"to": [5, 3, 0.4],
+			"faces": {
+				"north": {"uv": [5, 13, 4.5, 13.5], "texture": "#0"},
+				"east": {"uv": [4.5, 13, 5, 13.5], "texture": "#0"},
+				"south": {"uv": [4.5, 13, 5, 13.5], "texture": "#0"},
+				"west": {"uv": [4.5, 13, 5, 13.5], "texture": "#0"},
+				"up": {"uv": [4.5, 13, 5, 13.5], "texture": "#0"},
+				"down": {"uv": [4.5, 13, 5, 13.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_133",
+			"from": [1.5, 2, 0.1],
+			"to": [2, 2.5, 0.4],
+			"faces": {
+				"north": {"uv": [2, 13.5, 1.5, 14], "texture": "#0"},
+				"east": {"uv": [1.5, 13.5, 2, 14], "texture": "#0"},
+				"south": {"uv": [1.5, 13.5, 2, 14], "texture": "#0"},
+				"west": {"uv": [1.5, 13.5, 2, 14], "texture": "#0"},
+				"up": {"uv": [1.5, 13.5, 2, 14], "texture": "#0"},
+				"down": {"uv": [1.5, 13.5, 2, 14], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_134",
+			"from": [2, 2, 0],
+			"to": [2.5, 2.5, 0.5],
+			"faces": {
+				"north": {"uv": [2.5, 13.5, 2, 14], "texture": "#0"},
+				"east": {"uv": [2, 13.5, 2.5, 14], "texture": "#0"},
+				"south": {"uv": [2, 13.5, 2.5, 14], "texture": "#0"},
+				"west": {"uv": [2, 13.5, 2.5, 14], "texture": "#0"},
+				"up": {"uv": [2, 13.5, 2.5, 14], "texture": "#0"},
+				"down": {"uv": [2, 13.5, 2.5, 14], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_135",
+			"from": [2.5, 2, 0.1],
+			"to": [3, 2.5, 0.4],
+			"faces": {
+				"north": {"uv": [3, 13.5, 2.5, 14], "texture": "#0"},
+				"east": {"uv": [2.5, 13.5, 3, 14], "texture": "#0"},
+				"south": {"uv": [2.5, 13.5, 3, 14], "texture": "#0"},
+				"west": {"uv": [2.5, 13.5, 3, 14], "texture": "#0"},
+				"up": {"uv": [2.5, 13.5, 3, 14], "texture": "#0"},
+				"down": {"uv": [2.5, 13.5, 3, 14], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_136",
+			"from": [4, 2, 0],
+			"to": [4.5, 2.5, 0.5],
+			"faces": {
+				"north": {"uv": [4.5, 13.5, 4, 14], "texture": "#0"},
+				"east": {"uv": [4, 13.5, 4.5, 14], "texture": "#0"},
+				"south": {"uv": [4, 13.5, 4.5, 14], "texture": "#0"},
+				"west": {"uv": [4, 13.5, 4.5, 14], "texture": "#0"},
+				"up": {"uv": [4, 13.5, 4.5, 14], "texture": "#0"},
+				"down": {"uv": [4, 13.5, 4.5, 14], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_137",
+			"from": [4.5, 2, 0.1],
+			"to": [5, 2.5, 0.4],
+			"faces": {
+				"north": {"uv": [5, 13.5, 4.5, 14], "texture": "#0"},
+				"east": {"uv": [4.5, 13.5, 5, 14], "texture": "#0"},
+				"south": {"uv": [4.5, 13.5, 5, 14], "texture": "#0"},
+				"west": {"uv": [4.5, 13.5, 5, 14], "texture": "#0"},
+				"up": {"uv": [4.5, 13.5, 5, 14], "texture": "#0"},
+				"down": {"uv": [4.5, 13.5, 5, 14], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_138",
+			"from": [1, 1.5, 0.1],
+			"to": [1.5, 2, 0.4],
+			"faces": {
+				"north": {"uv": [1.5, 14, 1, 14.5], "texture": "#0"},
+				"east": {"uv": [1, 14, 1.5, 14.5], "texture": "#0"},
+				"south": {"uv": [1, 14, 1.5, 14.5], "texture": "#0"},
+				"west": {"uv": [1, 14, 1.5, 14.5], "texture": "#0"},
+				"up": {"uv": [1, 14, 1.5, 14.5], "texture": "#0"},
+				"down": {"uv": [1, 14, 1.5, 14.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_139",
+			"from": [1.5, 1.5, 0],
+			"to": [2, 2, 0.5],
+			"faces": {
+				"north": {"uv": [2, 14, 1.5, 14.5], "texture": "#0"},
+				"east": {"uv": [1.5, 14, 2, 14.5], "texture": "#0"},
+				"south": {"uv": [1.5, 14, 2, 14.5], "texture": "#0"},
+				"west": {"uv": [1.5, 14, 2, 14.5], "texture": "#0"},
+				"up": {"uv": [1.5, 14, 2, 14.5], "texture": "#0"},
+				"down": {"uv": [1.5, 14, 2, 14.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_140",
+			"from": [2, 1.5, 0.1],
+			"to": [2.5, 2, 0.4],
+			"faces": {
+				"north": {"uv": [2.5, 14, 2, 14.5], "texture": "#0"},
+				"east": {"uv": [2, 14, 2.5, 14.5], "texture": "#0"},
+				"south": {"uv": [2, 14, 2.5, 14.5], "texture": "#0"},
+				"west": {"uv": [2, 14, 2.5, 14.5], "texture": "#0"},
+				"up": {"uv": [2, 14, 2.5, 14.5], "texture": "#0"},
+				"down": {"uv": [2, 14, 2.5, 14.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_141",
+			"from": [4, 1.5, 0],
+			"to": [4.5, 2, 0.5],
+			"faces": {
+				"north": {"uv": [4.5, 14, 4, 14.5], "texture": "#0"},
+				"east": {"uv": [4, 14, 4.5, 14.5], "texture": "#0"},
+				"south": {"uv": [4, 14, 4.5, 14.5], "texture": "#0"},
+				"west": {"uv": [4, 14, 4.5, 14.5], "texture": "#0"},
+				"up": {"uv": [4, 14, 4.5, 14.5], "texture": "#0"},
+				"down": {"uv": [4, 14, 4.5, 14.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_142",
+			"from": [4.5, 1.5, 0.1],
+			"to": [5, 2, 0.4],
+			"faces": {
+				"north": {"uv": [5, 14, 4.5, 14.5], "texture": "#0"},
+				"east": {"uv": [4.5, 14, 5, 14.5], "texture": "#0"},
+				"south": {"uv": [4.5, 14, 5, 14.5], "texture": "#0"},
+				"west": {"uv": [4.5, 14, 5, 14.5], "texture": "#0"},
+				"up": {"uv": [4.5, 14, 5, 14.5], "texture": "#0"},
+				"down": {"uv": [4.5, 14, 5, 14.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_143",
+			"from": [0, 1, 0.1],
+			"to": [0.5, 1.5, 0.4],
+			"faces": {
+				"north": {"uv": [0.5, 14.5, 0, 15], "texture": "#0"},
+				"east": {"uv": [0, 14.5, 0.5, 15], "texture": "#0"},
+				"south": {"uv": [0, 14.5, 0.5, 15], "texture": "#0"},
+				"west": {"uv": [0, 14.5, 0.5, 15], "texture": "#0"},
+				"up": {"uv": [0, 14.5, 0.5, 15], "texture": "#0"},
+				"down": {"uv": [0, 14.5, 0.5, 15], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_144",
+			"from": [0.5, 1, 0.1],
+			"to": [1, 1.5, 0.4],
+			"faces": {
+				"north": {"uv": [1, 14.5, 0.5, 15], "texture": "#0"},
+				"east": {"uv": [0.5, 14.5, 1, 15], "texture": "#0"},
+				"south": {"uv": [0.5, 14.5, 1, 15], "texture": "#0"},
+				"west": {"uv": [0.5, 14.5, 1, 15], "texture": "#0"},
+				"up": {"uv": [0.5, 14.5, 1, 15], "texture": "#0"},
+				"down": {"uv": [0.5, 14.5, 1, 15], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_145",
+			"from": [1, 1, 0],
+			"to": [1.5, 1.5, 0.5],
+			"faces": {
+				"north": {"uv": [1.5, 14.5, 1, 15], "texture": "#0"},
+				"east": {"uv": [1, 14.5, 1.5, 15], "texture": "#0"},
+				"south": {"uv": [1, 14.5, 1.5, 15], "texture": "#0"},
+				"west": {"uv": [1, 14.5, 1.5, 15], "texture": "#0"},
+				"up": {"uv": [1, 14.5, 1.5, 15], "texture": "#0"},
+				"down": {"uv": [1, 14.5, 1.5, 15], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_146",
+			"from": [1.5, 1, 0.1],
+			"to": [2, 1.5, 0.4],
+			"faces": {
+				"north": {"uv": [2, 14.5, 1.5, 15], "texture": "#0"},
+				"east": {"uv": [1.5, 14.5, 2, 15], "texture": "#0"},
+				"south": {"uv": [1.5, 14.5, 2, 15], "texture": "#0"},
+				"west": {"uv": [1.5, 14.5, 2, 15], "texture": "#0"},
+				"up": {"uv": [1.5, 14.5, 2, 15], "texture": "#0"},
+				"down": {"uv": [1.5, 14.5, 2, 15], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_147",
+			"from": [3.5, 1, 0],
+			"to": [4, 1.5, 0.5],
+			"faces": {
+				"north": {"uv": [4, 14.5, 3.5, 15], "texture": "#0"},
+				"east": {"uv": [3.5, 14.5, 4, 15], "texture": "#0"},
+				"south": {"uv": [3.5, 14.5, 4, 15], "texture": "#0"},
+				"west": {"uv": [3.5, 14.5, 4, 15], "texture": "#0"},
+				"up": {"uv": [3.5, 14.5, 4, 15], "texture": "#0"},
+				"down": {"uv": [3.5, 14.5, 4, 15], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_148",
+			"from": [4, 1, 0.1],
+			"to": [4.5, 1.5, 0.4],
+			"faces": {
+				"north": {"uv": [4.5, 14.5, 4, 15], "texture": "#0"},
+				"east": {"uv": [4, 14.5, 4.5, 15], "texture": "#0"},
+				"south": {"uv": [4, 14.5, 4.5, 15], "texture": "#0"},
+				"west": {"uv": [4, 14.5, 4.5, 15], "texture": "#0"},
+				"up": {"uv": [4, 14.5, 4.5, 15], "texture": "#0"},
+				"down": {"uv": [4, 14.5, 4.5, 15], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_149",
+			"from": [0, 0.5, 0.1],
+			"to": [0.5, 1, 0.4],
+			"faces": {
+				"north": {"uv": [0.5, 15, 0, 15.5], "texture": "#0"},
+				"east": {"uv": [0, 15, 0.5, 15.5], "texture": "#0"},
+				"south": {"uv": [0, 15, 0.5, 15.5], "texture": "#0"},
+				"west": {"uv": [0, 15, 0.5, 15.5], "texture": "#0"},
+				"up": {"uv": [0, 15, 0.5, 15.5], "texture": "#0"},
+				"down": {"uv": [0, 15, 0.5, 15.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_150",
+			"from": [0.5, 0.5, 0],
+			"to": [1, 1, 0.5],
+			"faces": {
+				"north": {"uv": [1, 15, 0.5, 15.5], "texture": "#0"},
+				"east": {"uv": [0.5, 15, 1, 15.5], "texture": "#0"},
+				"south": {"uv": [0.5, 15, 1, 15.5], "texture": "#0"},
+				"west": {"uv": [0.5, 15, 1, 15.5], "texture": "#0"},
+				"up": {"uv": [0.5, 15, 1, 15.5], "texture": "#0"},
+				"down": {"uv": [0.5, 15, 1, 15.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_151",
+			"from": [1, 0.5, 0.1],
+			"to": [1.5, 1, 0.4],
+			"faces": {
+				"north": {"uv": [1.5, 15, 1, 15.5], "texture": "#0"},
+				"east": {"uv": [1, 15, 1.5, 15.5], "texture": "#0"},
+				"south": {"uv": [1, 15, 1.5, 15.5], "texture": "#0"},
+				"west": {"uv": [1, 15, 1.5, 15.5], "texture": "#0"},
+				"up": {"uv": [1, 15, 1.5, 15.5], "texture": "#0"},
+				"down": {"uv": [1, 15, 1.5, 15.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_152",
+			"from": [1.5, 0.5, 0.1],
+			"to": [2, 1, 0.4],
+			"faces": {
+				"north": {"uv": [2, 15, 1.5, 15.5], "texture": "#0"},
+				"east": {"uv": [1.5, 15, 2, 15.5], "texture": "#0"},
+				"south": {"uv": [1.5, 15, 2, 15.5], "texture": "#0"},
+				"west": {"uv": [1.5, 15, 2, 15.5], "texture": "#0"},
+				"up": {"uv": [1.5, 15, 2, 15.5], "texture": "#0"},
+				"down": {"uv": [1.5, 15, 2, 15.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_153",
+			"from": [2, 0.5, 0],
+			"to": [2.5, 1, 0.5],
+			"faces": {
+				"north": {"uv": [2.5, 15, 2, 15.5], "texture": "#0"},
+				"east": {"uv": [2, 15, 2.5, 15.5], "texture": "#0"},
+				"south": {"uv": [2, 15, 2.5, 15.5], "texture": "#0"},
+				"west": {"uv": [2, 15, 2.5, 15.5], "texture": "#0"},
+				"up": {"uv": [2, 15, 2.5, 15.5], "texture": "#0"},
+				"down": {"uv": [2, 15, 2.5, 15.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_154",
+			"from": [2.5, 0.5, 0],
+			"to": [3, 1, 0.5],
+			"faces": {
+				"north": {"uv": [3, 15, 2.5, 15.5], "texture": "#0"},
+				"east": {"uv": [2.5, 15, 3, 15.5], "texture": "#0"},
+				"south": {"uv": [2.5, 15, 3, 15.5], "texture": "#0"},
+				"west": {"uv": [2.5, 15, 3, 15.5], "texture": "#0"},
+				"up": {"uv": [2.5, 15, 3, 15.5], "texture": "#0"},
+				"down": {"uv": [2.5, 15, 3, 15.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_155",
+			"from": [3, 0.5, 0],
+			"to": [3.5, 1, 0.5],
+			"faces": {
+				"north": {"uv": [3.5, 15, 3, 15.5], "texture": "#0"},
+				"east": {"uv": [3, 15, 3.5, 15.5], "texture": "#0"},
+				"south": {"uv": [3, 15, 3.5, 15.5], "texture": "#0"},
+				"west": {"uv": [3, 15, 3.5, 15.5], "texture": "#0"},
+				"up": {"uv": [3, 15, 3.5, 15.5], "texture": "#0"},
+				"down": {"uv": [3, 15, 3.5, 15.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_156",
+			"from": [3.5, 0.5, 0.1],
+			"to": [4, 1, 0.4],
+			"faces": {
+				"north": {"uv": [4, 15, 3.5, 15.5], "texture": "#0"},
+				"east": {"uv": [3.5, 15, 4, 15.5], "texture": "#0"},
+				"south": {"uv": [3.5, 15, 4, 15.5], "texture": "#0"},
+				"west": {"uv": [3.5, 15, 4, 15.5], "texture": "#0"},
+				"up": {"uv": [3.5, 15, 4, 15.5], "texture": "#0"},
+				"down": {"uv": [3.5, 15, 4, 15.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_157",
+			"from": [0, 0, 0.1],
+			"to": [0.5, 0.5, 0.4],
+			"faces": {
+				"north": {"uv": [0.5, 15.5, 0, 16], "texture": "#0"},
+				"east": {"uv": [0, 15.5, 0.5, 16], "texture": "#0"},
+				"south": {"uv": [0, 15.5, 0.5, 16], "texture": "#0"},
+				"west": {"uv": [0, 15.5, 0.5, 16], "texture": "#0"},
+				"up": {"uv": [0, 15.5, 0.5, 16], "texture": "#0"},
+				"down": {"uv": [0, 15.5, 0.5, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_158",
+			"from": [0.5, 0, 0.1],
+			"to": [1, 0.5, 0.4],
+			"faces": {
+				"north": {"uv": [1, 15.5, 0.5, 16], "texture": "#0"},
+				"east": {"uv": [0.5, 15.5, 1, 16], "texture": "#0"},
+				"south": {"uv": [0.5, 15.5, 1, 16], "texture": "#0"},
+				"west": {"uv": [0.5, 15.5, 1, 16], "texture": "#0"},
+				"up": {"uv": [0.5, 15.5, 1, 16], "texture": "#0"},
+				"down": {"uv": [0.5, 15.5, 1, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_159",
+			"from": [1, 0, 0.1],
+			"to": [1.5, 0.5, 0.4],
+			"faces": {
+				"north": {"uv": [1.5, 15.5, 1, 16], "texture": "#0"},
+				"east": {"uv": [1, 15.5, 1.5, 16], "texture": "#0"},
+				"south": {"uv": [1, 15.5, 1.5, 16], "texture": "#0"},
+				"west": {"uv": [1, 15.5, 1.5, 16], "texture": "#0"},
+				"up": {"uv": [1, 15.5, 1.5, 16], "texture": "#0"},
+				"down": {"uv": [1, 15.5, 1.5, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_160",
+			"from": [2, 0, 0.1],
+			"to": [2.5, 0.5, 0.4],
+			"faces": {
+				"north": {"uv": [2.5, 15.5, 2, 16], "texture": "#0"},
+				"east": {"uv": [2, 15.5, 2.5, 16], "texture": "#0"},
+				"south": {"uv": [2, 15.5, 2.5, 16], "texture": "#0"},
+				"west": {"uv": [2, 15.5, 2.5, 16], "texture": "#0"},
+				"up": {"uv": [2, 15.5, 2.5, 16], "texture": "#0"},
+				"down": {"uv": [2, 15.5, 2.5, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_161",
+			"from": [2.5, 0, 0.1],
+			"to": [3, 0.5, 0.4],
+			"faces": {
+				"north": {"uv": [3, 15.5, 2.5, 16], "texture": "#0"},
+				"east": {"uv": [2.5, 15.5, 3, 16], "texture": "#0"},
+				"south": {"uv": [2.5, 15.5, 3, 16], "texture": "#0"},
+				"west": {"uv": [2.5, 15.5, 3, 16], "texture": "#0"},
+				"up": {"uv": [2.5, 15.5, 3, 16], "texture": "#0"},
+				"down": {"uv": [2.5, 15.5, 3, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iron_cutlass3_162",
+			"from": [3, 0, 0.1],
+			"to": [3.5, 0.5, 0.4],
+			"faces": {
+				"north": {"uv": [3.5, 15.5, 3, 16], "texture": "#0"},
+				"east": {"uv": [3, 15.5, 3.5, 16], "texture": "#0"},
+				"south": {"uv": [3, 15.5, 3.5, 16], "texture": "#0"},
+				"west": {"uv": [3, 15.5, 3.5, 16], "texture": "#0"},
+				"up": {"uv": [3, 15.5, 3.5, 16], "texture": "#0"},
+				"down": {"uv": [3, 15.5, 3.5, 16], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 45],
+			"translation": [11.5, 11, 0.25],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -90, -45],
+			"translation": [-11.5, 11, 0.25],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-28, 90, 36],
+			"translation": [16, 7, -7.5],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-24, -90, -36],
+			"translation": [-8.75, 7.75, -5.75],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"ground": {
+			"translation": [2, 0.5, 4],
+			"scale": [0.51, 0.52, 0.54]
+		},
+		"head": {
+			"rotation": [-21.25, 90, 0],
+			"translation": [11.75, 1.75, -8],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"fixed": {
+			"translation": [2.5, 1, 8]
+		}
+	},
+	"groups": [
+		{
+			"name": "iron_cutlass3",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89,
+				90,
+				91,
+				92,
+				93,
+				94,
+				95,
+				96,
+				97,
+				98,
+				99,
+				100,
+				101,
+				102,
+				103,
+				104,
+				105,
+				106,
+				107,
+				108,
+				109,
+				110,
+				111,
+				112,
+				113,
+				114,
+				115,
+				116,
+				117,
+				118,
+				119,
+				120,
+				121,
+				122,
+				123,
+				124,
+				125,
+				126,
+				127,
+				128,
+				129,
+				130,
+				131,
+				132,
+				133,
+				134,
+				135,
+				136,
+				137,
+				138,
+				139,
+				140,
+				141,
+				142,
+				143,
+				144,
+				145,
+				146,
+				147,
+				148,
+				149,
+				150,
+				151,
+				152,
+				153,
+				154,
+				155,
+				156,
+				157,
+				158,
+				159,
+				160,
+				161,
+				162
+			]
+		}
+	]
+}

@@ -1,0 +1,58 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/netherite_sword"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/netherite_sword/cutlass"},
+		{"predicate": {"custom_model_data":2}, "model": "item/netherite_sword/sabre"},
+		{"predicate": {"custom_model_data":3}, "model": "item/netherite_sword/katana"},
+		{"predicate": {"custom_model_data":4}, "model": "item/netherite_sword/rapier"},
+		{"predicate": {"custom_model_data":5}, "model": "item/netherite_sword/claymore"},
+		{"predicate": {"custom_model_data":6}, "model": "item/netherite_sword/greatsword"},
+		{"predicate": {"custom_model_data":7}, "model": "item/netherite_sword/doublesword"},
+		{"predicate": {"custom_model_data":8}, "model": "item/netherite_sword/dagger"},
+		{"predicate": {"custom_model_data":9}, "model": "item/netherite_sword/greataxe"},
+		{"predicate": {"custom_model_data":10}, "model": "item/netherite_sword/scythe"},
+		{"predicate": {"custom_model_data":11}, "model": "item/netherite_sword/spear"},
+		{"predicate": {"custom_model_data":12}, "model": "item/netherite_sword/glaive"},
+		{"predicate": {"custom_model_data":13}, "model": "item/netherite_sword/doublerapier"},
+		{"predicate": {"custom_model_data":14}, "model": "item/netherite_sword/kops"},
+		{"predicate": {"custom_model_data":15}, "model": "item/netherite_sword/claws"},
+		{"predicate": {"custom_model_data":16}, "model": "item/netherite_sword/bone_scythe"},
+		{"predicate": {"custom_model_data":17}, "model": "item/netherite_sword/warhammer"},
+		{"predicate": {"custom_model_data":18}, "model": "item/netherite_sword/sq_sword"},
+		{"predicate": {"custom_model_data":19}, "model": "item/netherite_sword/gone"},
+		{"predicate": {"custom_model_data":20}, "model": "item/netherite_sword/gone"},
+		{"predicate": {"custom_model_data":21}, "model": "item/netherite_sword/atlantic_trident"},
+		{"predicate": {"custom_model_data":22}, "model": "item/netherite_sword/demon_blade"},
+		{"predicate": {"custom_model_data":23}, "model": "item/netherite_sword/double_dagger"},
+		{"predicate": {"custom_model_data":24}, "model": "item/netherite_sword/dragon_spear"},
+		{"predicate": {"custom_model_data":25}, "model": "item/netherite_sword/moonlight_sword"},
+		{"predicate": {"custom_model_data":26}, "model": "item/netherite_sword/neko_blade"},
+		{"predicate": {"custom_model_data":27}, "model": "item/netherite_sword/silvan_polearm_redesign"},
+		{"predicate": {"custom_model_data":28}, "model": "item/netherite_sword/sunsword"},
+		{"predicate": {"custom_model_data":29}, "model": "item/netherite_sword/bonk"},
+		{"predicate": {"custom_model_data":30}, "model": "item/netherite_sword/flamespear"},
+		{"predicate": {"custom_model_data":31}, "model": "item/ghostysword/primordial"},
+		{"predicate": {"custom_model_data":32}, "model": "item/netherite_sword/empty"},
+		{"predicate": {"custom_model_data":33}, "model": "item/netherite_sword/empty"},
+		{"predicate": {"custom_model_data":34}, "model": "item/netherite_sword/empty"},
+		{"predicate": {"custom_model_data":35}, "model": "item/netherite_sword/forged_sword"},
+		{"predicate": {"custom_model_data":36}, "model": "item/netherite_sword/empty"},
+		{"predicate": {"custom_model_data":37}, "model": "item/netherite_sword/empty"},
+		{"predicate": {"custom_model_data":38}, "model": "item/netherite_sword/Aloon"},
+		{"predicate": {"custom_model_data":39}, "model": "item/netherite_sword/empty"},
+		{"predicate": {"custom_model_data":40}, "model": "item/netherite_sword/stop_sign"},
+		{"predicate": {"custom_model_data":41}, "model": "item/netherite_sword/frag"},
+		{"predicate": {"custom_model_data":42}, "model": "item/misc/jadebroad"},
+		{"predicate": {"custom_model_data":43}, "model": "item/misc/rubybroad"},
+		{"predicate": {"custom_model_data":44}, "model": "item/misc/sapphbroad"},
+		{"predicate": {"custom_model_data":45}, "model": "item/ghostysword/ghostysword"},
+		{"predicate": {"custom_model_data":46}, "model": "item/ghostysword/firebrand"},
+		{"predicate": {"custom_model_data":47}, "model": "item/ghostysword/zainersword"}
+
+
+	]
+}

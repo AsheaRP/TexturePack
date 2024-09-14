@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "custom/woodessentials/core/furniture_chair",
+	"textures": {
+		"2": "block/stripped_crimson_stem",
+		"4": "block/crimson_stem",
+		"particle": "block/crimson_stem_top"
+	}
+}

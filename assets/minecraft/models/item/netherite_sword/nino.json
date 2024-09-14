@@ -1,0 +1,37 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/netherite_sword/nino_glaive"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [17.66, 89.28, 30.74],
+			"translation": [0, 7, 1.75],
+			"scale": [2, 2, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-119.22, -88.92, -168.56],
+			"translation": [0, 7.75, 2.25],
+			"scale": [2, 2, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [-12.59, 89.28, 30.74],
+			"translation": [0, 4.5, 1.5],
+			"scale": [1.4, 1.4, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [72.8, -83.44, 51.45],
+			"translation": [0, 4.5, 1.75],
+			"scale": [1.4, 1.4, 1]
+		},
+		"ground": {
+			"translation": [0, 7.5, 0],
+			"scale": [1, 1, 0.5]
+		},
+		"gui": {
+			"translation": [0.5, 0.3, 0],
+			"scale": [1.05, 1.04, 1]
+		}
+	}
+}

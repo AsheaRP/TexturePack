@@ -1,0 +1,49 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/diamond_boots"
+	},
+
+	"overrides": [
+		{
+			"predicate": { "custom_model_data": 1 },
+			"model": "item/steel/steel_boots"
+		},
+		{
+			"predicate": { "custom_model_data": 2 },
+			"model": "item/steel/jade_boots"
+		},
+		{
+			"predicate": { "custom_model_data": 3 },
+			"model": "item/steel/ruby_boots"
+		},
+		{
+			"predicate": { "custom_model_data": 4 },
+			"model": "item/steel/sapph_boots"
+		},
+		{
+			"predicate": { "custom_model_data": 5 },
+			"model": "item/platediron/pibootsup"
+		},
+		{
+			"predicate": { "custom_model_data": 6 },
+			"model": "item/adam/abootsup"
+		},
+		{
+			"predicate": { "custom_model_data": 7 },
+			"model": "item/darktitan/dtbootsup"
+		},
+		{
+			"predicate": { "custom_model_data": 8 },
+			"model": "item/elf/gupboots"
+		},
+		{
+			"predicate": { "custom_model_data": 9 },
+			"model": "item/nayan/nupboots"
+		},
+		{
+			"predicate": { "custom_model_data": 10 },
+			"model": "item/dwarven/dupboots"
+		}
+	]
+		}

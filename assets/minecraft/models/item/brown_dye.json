@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/brown_dye"
+    },
+	"overrides": [	
+		{"predicate": {"custom_model_data":1}, "model": "dungeon_models/key_wooden"},
+		{"predicate": {"custom_model_data":2}, "model": "dungeon_models/key_golden"},
+		{"predicate": {"custom_model_data":3}, "model": "dungeon_models/key_diamond"},
+		{"predicate": {"custom_model_data":4}, "model": "dungeon_models/coin_shard"}
+    ]
+}

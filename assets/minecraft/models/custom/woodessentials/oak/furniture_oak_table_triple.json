@@ -1,0 +1,10 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "custom/woodessentials/core/furniture_table_triple",
+	"textures": {
+		"0": "block/stripped_oak_log",
+		"2": "block/oak_log",
+		"4": "block/anvil",
+		"particle": "block/stripped_oak_log"
+	}
+}

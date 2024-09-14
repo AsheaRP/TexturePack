@@ -1,0 +1,25 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/diamond"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/misc/jade"},
+		{"predicate": {"custom_model_data":2}, "model": "item/misc/ruby"},
+		{"predicate": {"custom_model_data":3}, "model": "item/misc/sapph"},
+		{"predicate": {"custom_model_data":4}, "model": "item/misc/steel"},
+		{"predicate": {"custom_model_data":5}, "model": "item/misc/steelhilt"},
+		{"predicate": {"custom_model_data":6}, "model": "item/misc/sapphshard"},
+		{"predicate": {"custom_model_data":7}, "model": "item/misc/rubyshard"},
+		{"predicate": {"custom_model_data":8}, "model": "item/misc/jaderaw"},
+		{
+			"predicate": { "custom_model_data": 9 },
+			"model": "item/misc/shards"
+		},
+		{
+			"predicate": { "custom_model_data": 1000 },
+			"model": "default/table"
+		}
+	]
+}

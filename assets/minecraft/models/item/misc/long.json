@@ -1,0 +1,37 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/diamond_sword/longhandle"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [18.59, 86.12, 27.61],
+			"translation": [0, 2.75, 2.5],
+			"scale": [2, 2, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-70.66, 86.12, 27.61],
+			"translation": [0, 2.75, 1.5],
+			"scale": [2, 2, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [18.59, 86.12, 27.61],
+			"translation": [0, 2.75, 2.5],
+			"scale": [2, 2, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [89.84, 86.12, 27.61],
+			"translation": [0, -1.25, 2.5],
+			"scale": [2, 2, 1]
+		},
+		"ground": {
+			"translation": [0, 5.5, 0],
+			"scale": [1, 1, 0.5]
+		},
+		"gui": {
+			"translation": [1.25, 2, 0],
+			"scale": [1.33, 1.33, 1]
+		}
+	}
+}

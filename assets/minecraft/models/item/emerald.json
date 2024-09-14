@@ -1,0 +1,15 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/emerald"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/misc/jadeamulet"},
+		{"predicate": {"custom_model_data":2}, "model": "item/misc/rubyamulet"},
+		{"predicate": {"custom_model_data":3}, "model": "item/misc/sapphamulet"},
+		{"predicate": {"custom_model_data":4}, "model": "item/misc/jadebrace"},
+		{"predicate": {"custom_model_data":5}, "model": "item/misc/rubybrace"},
+		{"predicate": {"custom_model_data":6}, "model": "item/misc/sapphbrace"}
+	]
+}

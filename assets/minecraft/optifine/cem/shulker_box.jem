@@ -1,0 +1,129 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [128, 128],
+	"models": [
+		{
+			"part": "lid",
+			"id": "lid",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"submodels": [
+				{
+					"id": "bone",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0]
+				}
+			]
+		},
+		{
+			"part": "base",
+			"id": "base",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"boxes": [
+				{"coordinates": [-8, 0, -8, 16, 13, 16], "textureOffset": [0, 28]}
+			],
+			"submodels": [
+				{
+					"id": "base3",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"boxes": [
+						{"coordinates": [-8, 0, -8, 16, 8, 16], "textureOffset": [64, 104]},
+						{"coordinates": [-8, 3, -8, 16, 0, 16], "textureOffset": [80, 104]}
+					]
+				},
+				{
+					"id": "base2",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"boxes": [
+						{"coordinates": [-8, 0, -8, 16, 8, 16], "textureOffset": [64, 0]},
+						{"coordinates": [-8, 3, -8, 16, 0, 16], "textureOffset": [80, 0]}
+					]
+				},
+				{
+					"id": "base4",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"boxes": [
+						{"coordinates": [-8, 0, -8, 16, 6, 16], "textureOffset": [0, 106]},
+						{"coordinates": [-8, 3, -8, 16, 0, 16], "textureOffset": [16, 106]}
+					]
+				},
+				{
+					"id": "lid1",
+					"invertAxis": "xy",
+					"translate": [0, 14, 7],
+					"boxes": [
+						{"coordinates": [-8, -1, -15, 16, 3, 16], "textureOffset": [0, 0]}
+					]
+				},
+				{
+					"id": "lid3",
+					"invertAxis": "xy",
+					"translate": [0, 4, 8],
+					"boxes": [
+						{"coordinates": [-8, 0, -16, 16, 12, 16], "textureOffset": [64, 76]},
+						{"coordinates": [-8, 9, -16, 16, 0, 16], "textureOffset": [64, 76]}
+					]
+				},
+				{
+					"id": "lid4",
+					"invertAxis": "xy",
+					"translate": [0, 6, 8],
+					"boxes": [
+						{"coordinates": [-8, 8, -16, 16, 2, 16], "textureOffset": [0, 80]},
+						{"coordinates": [-8, 0, 0, 16, 8, 0], "textureOffset": [32, 98]}
+					],
+					"submodels": [
+						{
+							"id": "flap",
+							"invertAxis": "xy",
+							"translate": [0, 8, -16],
+							"boxes": [
+								{"coordinates": [-8, -8, 0, 16, 8, 0], "textureOffset": [0, 98]}
+							]
+						},
+						{
+							"id": "flap2",
+							"invertAxis": "xy",
+							"translate": [-8, 8, -16],
+							"boxes": [
+								{"coordinates": [0, -8, 0, 0, 8, 16], "textureOffset": [0, 82]}
+							]
+						},
+						{
+							"id": "flap3",
+							"invertAxis": "xy",
+							"translate": [8, 8, -16],
+							"boxes": [
+								{"coordinates": [0, -8, 0, 0, 8, 16], "textureOffset": [0, 56]}
+							]
+						}
+					]
+				},
+				{
+					"id": "lid2",
+					"invertAxis": "xy",
+					"translate": [0, 8, 8],
+					"boxes": [
+						{"coordinates": [-8, -3, -16, 16, 11, 16], "textureOffset": [64, 25]},
+						{"coordinates": [-8, 5, -16, 16, 0, 16], "textureOffset": [80, 0]}
+					]
+				}
+			],
+			"animations": [
+				{
+					"lid1.rx": "if(lid.ty!=24,torad(((tan(0.06466*lid.ty))/0.5)-103.4),0)",
+					"lid2.rx": "if(lid.ty!=24,torad(((tan(0.06466*lid.ty))/0.5)-103.4),0)",
+					"lid3.rx": "if(lid.ty!=24,torad(((tan(0.06466*lid.ty))/0.5)-103.4),0)",
+					"lid4.rx": "if(lid.ty!=24,torad(((tan(0.06466*lid.ty))/0.5)-103.4),0)",
+					"flap.rx": "if(lid.ty!=24,torad((4*lid.ty)-96),0)",
+					"flap2.rz": "if(lid.ty!=24,torad((4*lid.ty)-96),0)",
+					"flap3.rz": "if(lid.ty!=24,torad((-4*lid.ty)+96),0)"
+				}
+			]
+		}
+	]
+}

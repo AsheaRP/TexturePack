@@ -1,0 +1,41 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/shimin/Sprite-0002"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [17.66, 89.28, 30.74],
+			"translation": [0, 17.5, 1.75],
+			"scale": [2, 2, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [48.42, -89, 0],
+			"translation": [0, 17.5, 1.75],
+			"scale": [2, 2, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [-7.84, 89.28, 30.74],
+			"translation": [0, 15, -5.75],
+			"scale": [2, 2, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [45, -90, 30.74],
+			"translation": [0, 15, -5.75],
+			"scale": [2, 2, 1]
+		},
+		"ground": {
+			"translation": [7.5, 12, 0],
+			"scale": [1.5, 1.5, 1]
+		},
+		"gui": {
+			"translation": [6.75, 5.75, -0.5],
+			"scale": [1.7, 1.7, 1]
+		},
+		"fixed": {
+			"translation": [7.5, 6.75, -0.5],
+			"scale": [2, 2, 1]
+		}
+	}
+}

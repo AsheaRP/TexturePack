@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/armor/netherite/3/netheriteknight3_chestplate",
+    "layer1": "item/armor/netherite/3/netheriteknight3_chestplate"
+  }
+}

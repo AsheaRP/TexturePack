@@ -1,0 +1,187 @@
+{
+	"bd.dragging1": {
+		"sounds": [
+			"custom/dragging1"
+		]
+	},
+	"bd.dragging2": {
+		"sounds": [
+			"custom/dragging2"
+		]
+	},
+	"bd.closing-vault-door": {
+		"sounds": [
+			"custom/closing-vault-door"
+		]
+	},
+	"bd.drawbridge-rattling": {
+		"sounds": [
+			"custom/drawbridge-rattling"
+		]
+	},
+	"bd.thud": {
+		"sounds": [
+			"custom/thud"
+		]
+	},
+	"music_disc.tobyfoxfallendown": {
+		"sounds": [
+			{
+				"name": "records/tobyfoxfallendown",
+				"stream": true
+			}
+		]
+	},
+
+	"music_disc.rickrollerd": {
+		"sounds": [
+			{
+				"name": "records/rickrollerd",
+				"stream": true
+			}
+		]
+	},
+
+	"music_disc.unknownendballad": {
+		"sounds": [
+			{
+				"name": "records/unknownendballad",
+				"stream": true
+			}
+		]
+	},
+	"entity.endermite.ambient": {
+		"sounds": [
+			"mob/silverfish/say1",
+			"mob/silverfish/say2",
+			"mob/silverfish/say3",
+			"mob/silverfish/say4"
+		],
+		"subtitle": "subtitles.entity.endermite.ambient",
+		"replace": true
+	},
+	"entity.endermite.death": {
+		"sounds": [
+			"mob/silverfish/kill"
+		],
+		"subtitle": "subtitles.entity.endermite.death",
+		"replace": true
+	},
+	"entity.endermite.hurt": {
+		"sounds": [
+			"mob/silverfish/hit1",
+			"mob/silverfish/hit2",
+			"mob/silverfish/hit3"
+		],
+		"subtitle": "subtitles.entity.endermite.hurt",
+		"replace": true
+
+	},
+	"custom.wraithshriek": {
+		"category": "master",
+		"sounds": [ "custom/Shreik" ]
+	},
+
+	"welcome": {
+		"category": "master",
+		"sounds": [ "welcome" ]
+	},
+	"block.wood.step": {
+		"category": "master",
+		"replace": true,
+		"sounds": []
+	},
+	"block.wood.place": {
+		"category": "master",
+		"replace": true,
+		"sounds": []
+	},
+	"block.wood.break": {
+		"category": "master",
+		"replace": true,
+		"sounds": []
+	},
+	"block.wood.fall": {
+		"category": "master",
+		"replace": true,
+		"sounds": []
+	},
+	"block.wood.hit": {
+		"category": "master",
+		"replace": true,
+		"sounds": []
+	},
+	"block.stone.step": {
+		"category": "master",
+		"replace": true,
+		"sounds": []
+	},
+	"block.stone.place": {
+		"category": "master",
+		"replace": true,
+		"sounds": []
+	},
+	"block.stone.break": {
+		"category": "master",
+		"replace": true,
+		"sounds": []
+	},
+	"block.stone.fall": {
+		"category": "master",
+		"replace": true,
+		"sounds": []
+	},
+	"block.stone.hit": {
+		"category": "master",
+		"replace": true,
+		"sounds": []
+	},
+	"required.wood.hit": {
+		"category": "master",
+		"subtitle": "subtitles.block.generic.hit",
+		"sounds": [ "step/wood1", "step/wood2", "step/wood3", "step/wood4", "step/wood5", "step/wood6" ]
+	},
+	"required.wood.place": {
+		"category": "master",
+		"subtitle": "subtitles.block.generic.place",
+		"sounds": [ "dig/wood1", "dig/wood2", "dig/wood3", "dig/wood4" ]
+	},
+	"required.wood.break": {
+		"category": "master",
+		"subtitle": "subtitles.block.generic.break",
+		"sounds": [ "dig/wood1", "dig/wood2", "dig/wood3", "dig/wood4" ]
+	},
+	"required.wood.step": {
+		"category": "master",
+		"subtitle": "subtitles.block.generic.footsteps",
+		"sounds": [ "step/wood1", "step/wood2", "step/wood3", "step/wood4", "step/wood5", "step/wood6" ]
+	},
+	"required.wood.fall": {
+		"category": "master",
+		"sounds": [ "step/wood1", "step/wood2", "step/wood3", "step/wood4", "step/wood5", "step/wood6" ]
+	},
+	"required.stone.hit": {
+		"category": "master",
+		"subtitle": "subtitles.block.generic.hit",
+		"sounds": [ "step/stone1", "step/stone2", "step/stone3", "step/stone4", "step/stone5", "step/stone6" ]
+	},
+	"required.stone.place": {
+		"category": "master",
+		"subtitle": "subtitles.block.generic.place",
+		"sounds": [ "dig/stone1", "dig/stone2", "dig/stone3", "dig/stone4" ]
+	},
+	"required.stone.break": {
+		"category": "master",
+		"subtitle": "subtitles.block.generic.break",
+		"sounds": [ "dig/stone1", "dig/stone2", "dig/stone3", "dig/stone4" ]
+	},
+	"required.stone.step": {
+		"category": "master",
+		"subtitle": "subtitles.block.generic.footsteps",
+		"sounds": [ "step/stone1", "step/stone2", "step/stone3", "step/stone4", "step/stone5", "step/stone6" ]
+	},
+	"required.stone.fall": {
+		"category": "master",
+		"sounds": [ "step/stone1", "step/stone2", "step/stone3", "step/stone4", "step/stone5", "step/stone6" ]
+	}
+}

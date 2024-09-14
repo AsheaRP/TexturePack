@@ -1,0 +1,21 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/stone_shovel"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/scrolls/1"},
+		{"predicate": {"custom_model_data":2}, "model": "item/scrolls/2"},
+		{"predicate": {"custom_model_data":3}, "model": "item/scrolls/3"},
+		{"predicate": {"custom_model_data":4}, "model": "item/scrolls/4"},
+		{"predicate": {"custom_model_data":5}, "model": "item/scrolls/5"},
+		{"predicate": {"custom_model_data":6}, "model": "item/scrolls/6"},
+		{"predicate": {"custom_model_data":7}, "model": "item/scrolls/7"},
+		{"predicate": {"custom_model_data":8}, "model": "item/scrolls/8"},
+		{"predicate": {"custom_model_data":9}, "model": "item/scrolls/9"},
+		{"predicate": {"custom_model_data":10}, "model": "item/scrolls/10"},
+		{"predicate": {"custom_model_data":11}, "model": "item/scrolls/11"},
+		{"predicate": {"custom_model_data":12}, "model": "item/scrolls/12"}
+	]
+}

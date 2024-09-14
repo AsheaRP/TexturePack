@@ -1,0 +1,14 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/wooden_shovel"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/staffs/uthristaff"},
+		{"predicate": {"custom_model_data":2}, "model": "item/staffs/estella"},
+		{"predicate": {"custom_model_data":3}, "model": "item/staffs/scarstaff"},
+		{"predicate": {"custom_model_data":4}, "model": "item/staffs/njord"},
+		{"predicate": {"custom_model_data":5}, "model": "item/staffs/smolestella"}
+	]
+}

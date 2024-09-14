@@ -1,0 +1,1791 @@
+{
+
+  "sources": [
+    {
+      "type": "single",
+      "resource": "minecraft:required/recipe_stonecutter",
+      "sprite": "minecraft:required/recipe_stonecutter"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:required/particle",
+      "sprite": "minecraft:required/particle"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:required/exit_icon",
+      "sprite": "minecraft:required/exit_icon"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:required/ascii_offset",
+      "sprite": "minecraft:required/ascii_offset"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:required/arrow_previous_icon",
+      "sprite": "minecraft:required/arrow_previous_icon"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:required/arrow_next_icon",
+      "sprite": "minecraft:required/arrow_next_icon"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:models/armor/leather_layer_2_overlay",
+      "sprite": "minecraft:models/armor/leather_layer_2_overlay"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:models/armor/leather_layer_1_overlay",
+      "sprite": "minecraft:models/armor/leather_layer_1_overlay"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/wood_sword",
+      "sprite": "minecraft:default/wood_sword"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/withooker",
+      "sprite": "minecraft:default/withooker"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/witch_hat2",
+      "sprite": "minecraft:default/witch_hat2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/witch_hat1",
+      "sprite": "minecraft:default/witch_hat1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/witch_hat0",
+      "sprite": "minecraft:default/witch_hat0"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/weed/vegatative",
+      "sprite": "minecraft:default/weed/vegatative"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/weed/seedling",
+      "sprite": "minecraft:default/weed/seedling"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/weed/seed",
+      "sprite": "minecraft:default/weed/seed"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/weed/leaf",
+      "sprite": "minecraft:default/weed/leaf"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/weed/harvest",
+      "sprite": "minecraft:default/weed/harvest"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/weed/flowering",
+      "sprite": "minecraft:default/weed/flowering"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/table",
+      "sprite": "minecraft:default/table"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/storm_sword4",
+      "sprite": "minecraft:default/storm_sword4"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/storm_sword3",
+      "sprite": "minecraft:default/storm_sword3"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/storm_sword2",
+      "sprite": "minecraft:default/storm_sword2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/storm_sword1",
+      "sprite": "minecraft:default/storm_sword1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/storm_sword0",
+      "sprite": "minecraft:default/storm_sword0"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/space_helmet",
+      "sprite": "minecraft:default/space_helmet"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/shelf",
+      "sprite": "minecraft:default/shelf"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/sandwitch",
+      "sprite": "minecraft:default/sandwitch"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/ruby_ore",
+      "sprite": "minecraft:default/ruby_ore"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/ruby",
+      "sprite": "minecraft:default/ruby"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/pharaoh_head",
+      "sprite": "minecraft:default/pharaoh_head"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/ore_base",
+      "sprite": "minecraft:default/ore_base"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/orax_ore",
+      "sprite": "minecraft:default/orax_ore"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/orax_hammer",
+      "sprite": "minecraft:default/orax_hammer"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/orax",
+      "sprite": "minecraft:default/orax"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/onyx_ore",
+      "sprite": "minecraft:default/onyx_ore"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/onyx_hammer",
+      "sprite": "minecraft:default/onyx_hammer"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/onyx",
+      "sprite": "minecraft:default/onyx"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/octavia_sword",
+      "sprite": "minecraft:default/octavia_sword"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/obsidian_sword",
+      "sprite": "minecraft:default/obsidian_sword"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/obsidian_pickaxe",
+      "sprite": "minecraft:default/obsidian_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/magical_wand1",
+      "sprite": "minecraft:default/magical_wand1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/magical_wand0",
+      "sprite": "minecraft:default/magical_wand0"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/magical_axe1",
+      "sprite": "minecraft:default/magical_axe1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/magical_axe0",
+      "sprite": "minecraft:default/magical_axe0"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/magic_book",
+      "sprite": "minecraft:default/magic_book"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/legendary_hammer1",
+      "sprite": "minecraft:default/legendary_hammer1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/legendary_hammer0",
+      "sprite": "minecraft:default/legendary_hammer0"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/katana2",
+      "sprite": "minecraft:default/katana2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/katana1",
+      "sprite": "minecraft:default/katana1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/katana0",
+      "sprite": "minecraft:default/katana0"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/iron_serpe",
+      "sprite": "minecraft:default/iron_serpe"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/iron_cog",
+      "sprite": "minecraft:default/iron_cog"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/ice_staff",
+      "sprite": "minecraft:default/ice_staff"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/great_sword",
+      "sprite": "minecraft:default/great_sword"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/grape_seeds",
+      "sprite": "minecraft:default/grape_seeds"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/grape3",
+      "sprite": "minecraft:default/grape3"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/grape2",
+      "sprite": "minecraft:default/grape2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/grape1",
+      "sprite": "minecraft:default/grape1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/grape0",
+      "sprite": "minecraft:default/grape0"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/grape",
+      "sprite": "minecraft:default/grape"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/gold_cog",
+      "sprite": "minecraft:default/gold_cog"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/goblin_beetle4",
+      "sprite": "minecraft:default/goblin_beetle4"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/goblin_beetle3",
+      "sprite": "minecraft:default/goblin_beetle3"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/goblin_beetle2",
+      "sprite": "minecraft:default/goblin_beetle2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/goblin_beetle1",
+      "sprite": "minecraft:default/goblin_beetle1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/goblin_beetle0",
+      "sprite": "minecraft:default/goblin_beetle0"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/glass_sword",
+      "sprite": "minecraft:default/glass_sword"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/flowers/dailily",
+      "sprite": "minecraft:default/flowers/dailily"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/flowers/daffodil",
+      "sprite": "minecraft:default/flowers/daffodil"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/flowers/brunnera",
+      "sprite": "minecraft:default/flowers/brunnera"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/fire_hammer",
+      "sprite": "minecraft:default/fire_hammer"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/energy_crystal_sword",
+      "sprite": "minecraft:default/energy_crystal_sword"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/emerald_hammer",
+      "sprite": "minecraft:default/emerald_hammer"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/earth_hammer",
+      "sprite": "minecraft:default/earth_hammer"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/divine_shield",
+      "sprite": "minecraft:default/divine_shield"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/diamond_cog",
+      "sprite": "minecraft:default/diamond_cog"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/dagger3",
+      "sprite": "minecraft:default/dagger3"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/dagger2",
+      "sprite": "minecraft:default/dagger2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/dagger1",
+      "sprite": "minecraft:default/dagger1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/dagger0",
+      "sprite": "minecraft:default/dagger0"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/crown",
+      "sprite": "minecraft:default/crown"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/combat_bow",
+      "sprite": "minecraft:default/combat_bow"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/coach",
+      "sprite": "minecraft:default/coach"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/chair",
+      "sprite": "minecraft:default/chair"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/caveblock",
+      "sprite": "minecraft:default/caveblock"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/cart",
+      "sprite": "minecraft:default/cart"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/bone_sword",
+      "sprite": "minecraft:default/bone_sword"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/blood_sword",
+      "sprite": "minecraft:default/blood_sword"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/bedrock_pickaxe2",
+      "sprite": "minecraft:default/bedrock_pickaxe2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/bedrock_pickaxe1",
+      "sprite": "minecraft:default/bedrock_pickaxe1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/bedrock_pickaxe0",
+      "sprite": "minecraft:default/bedrock_pickaxe0"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/battle_axe",
+      "sprite": "minecraft:default/battle_axe"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/armors/ruby_leggings",
+      "sprite": "minecraft:default/armors/ruby_leggings"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/armors/ruby_helmet",
+      "sprite": "minecraft:default/armors/ruby_helmet"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/armors/ruby_chestplate",
+      "sprite": "minecraft:default/armors/ruby_chestplate"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/armors/ruby_boots",
+      "sprite": "minecraft:default/armors/ruby_boots"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/armors/obsidian_leggings",
+      "sprite": "minecraft:default/armors/obsidian_leggings"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/armors/obsidian_helmet",
+      "sprite": "minecraft:default/armors/obsidian_helmet"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/armors/obsidian_chestplate",
+      "sprite": "minecraft:default/armors/obsidian_chestplate"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/armors/obsidian_boots",
+      "sprite": "minecraft:default/armors/obsidian_boots"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/armors/emerald_leggings",
+      "sprite": "minecraft:default/armors/emerald_leggings"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/armors/emerald_helmet",
+      "sprite": "minecraft:default/armors/emerald_helmet"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/armors/emerald_chestplate",
+      "sprite": "minecraft:default/armors/emerald_chestplate"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/armors/emerald_boots",
+      "sprite": "minecraft:default/armors/emerald_boots"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/anubis_head",
+      "sprite": "minecraft:default/anubis_head"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/amethyst_ore",
+      "sprite": "minecraft:default/amethyst_ore"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/amethyst_hammer",
+      "sprite": "minecraft:default/amethyst_hammer"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:default/amethyst",
+      "sprite": "minecraft:default/amethyst"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:daily_quest/unknown_badge",
+      "sprite": "minecraft:daily_quest/unknown_badge"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:daily_quest/skilled_badge",
+      "sprite": "minecraft:daily_quest/skilled_badge"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:daily_quest/rookie_badge",
+      "sprite": "minecraft:daily_quest/rookie_badge"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:daily_quest/reward",
+      "sprite": "minecraft:daily_quest/reward"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:daily_quest/quest_board",
+      "sprite": "minecraft:daily_quest/quest_board"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:daily_quest/pro_badge",
+      "sprite": "minecraft:daily_quest/pro_badge"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:daily_quest/medium_quest",
+      "sprite": "minecraft:daily_quest/medium_quest"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:daily_quest/master_of_quests_badge",
+      "sprite": "minecraft:daily_quest/master_of_quests_badge"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:daily_quest/locked_badge",
+      "sprite": "minecraft:daily_quest/locked_badge"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:daily_quest/legend_of_quests_badge",
+      "sprite": "minecraft:daily_quest/legend_of_quests_badge"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:daily_quest/hard_quest",
+      "sprite": "minecraft:daily_quest/hard_quest"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:daily_quest/expert_badge",
+      "sprite": "minecraft:daily_quest/expert_badge"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:daily_quest/empty",
+      "sprite": "minecraft:daily_quest/empty"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:daily_quest/easy_quest",
+      "sprite": "minecraft:daily_quest/easy_quest"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:daily_quest/button_leaderboard",
+      "sprite": "minecraft:daily_quest/button_leaderboard"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:daily_quest/button_badges",
+      "sprite": "minecraft:daily_quest/button_badges"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:daily_quest/beginner_badge",
+      "sprite": "minecraft:daily_quest/beginner_badge"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:daily_quest/arrow_right",
+      "sprite": "minecraft:daily_quest/arrow_right"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:daily_quest/arrow_left",
+      "sprite": "minecraft:daily_quest/arrow_left"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:daily_quest/advanced_badge",
+      "sprite": "minecraft:daily_quest/advanced_badge"
+    },
+    {
+      "source": "entity",
+      "prefix": "entity/",
+      "type": "directory"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:rpg_essentials_2_texture/cactus"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:rpg_essentials_2_texture/deathbloom"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:rpg_essentials_2_texture/clover"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:rpg_essentials_2_texture/magical_herb"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:rpg_essentials_2_texture/mushroom_glowing"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:rpg_essentials_2_texture/mushroom_red"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:rpg_essentials_2_texture/potion_eternal"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:rpg_essentials_2_texture/potion_large"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:rpg_essentials_2_texture/potion_minor"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:rpg_essentials_2_texture/potion_small"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:rpg_essentials_2_texture/potion_superior"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:rpg_essentials_2_texture/scroll_return"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:rpg_essentials_2_texture/scroll_teleport"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:rpg_essentials_2_texture/shamrock"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:rpg_essentials_2_texture/wild_berry"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archer_texture/archer_bow"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archer_texture/archer_bow_shiny"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archer_texture/archer_bow_spirit_1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archer_texture/archer_bow_spirit_2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archer_texture/archer_bow_spirit_3"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archer_texture/archer_bow_spirit_4"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archer_texture/archer_bow_spirit_dragon_1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archer_texture/archer_bow_spirit_dragon_2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archer_texture/archer_bow_spirit_dragon_3"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archer_texture/archer_bow_spirit_dragon_4"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archer_texture/backstep1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archer_texture/backstep2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archer_texture/backstep3"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archer_texture/backstep4"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archer_texture/backstep5"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archer_texture/dragon_arrow"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archer_texture/dragon_spirit_1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archer_texture/dragon_spirit_2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archer_texture/dragon_spirit_3"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archer_texture/dragon_spirit_4"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archer_texture/hunters_focus_1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archer_texture/hunters_focus_2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archer_texture/hunters_focus"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archer_texture/icon_backstep"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archer_texture/icon_deadly_javelin"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archer_texture/icon_dragon_piercer"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archer_texture/icon_hunters_focus"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archer_texture/icon_quick_shot"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archer_texture/icon_windrazor"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archer_texture/javelin"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archer_texture/quick_shot"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:assassin_texture/assassin_blade"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:assassin_texture/assassin_blade_shiny"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:assassin_texture/assassin_dagger_a"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:assassin_texture/assassin_dash1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:assassin_texture/assassin_impact1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:assassin_texture/assassin_dash2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:assassin_texture/assassin_impact2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:assassin_texture/assassin_dash3"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:assassin_texture/assassin_impact3"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:assassin_texture/assassin_dash4"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:assassin_texture/assassin_impact4"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:assassin_texture/assassin_slash1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:assassin_texture/assassin_slash2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:assassin_texture/assassin_slash3"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:assassin_texture/assassin_slash4"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:assassin_texture/assassin_slash5"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:assassin_texture/assassin_slash6"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:assassin_texture/assassin_spin1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:assassin_texture/assassin_spin2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:assassin_texture/assassin_spin3"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:assassin_texture/assassin_spin4"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:assassin_texture/assassin_spin5"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:assassin_texture/assassin_spin6"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:assassin_texture/assassin_x_1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:assassin_texture/assassin_x2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:assassin_texture/assassin_x3"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:assassin_texture/assassin_x4"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:assassin_texture/assassin_x5"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:assassin_texture/icon_assassins_blade"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:assassin_texture/icon_blade_dance"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:assassin_texture/icon_blade_slash"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:assassin_texture/icon_dagger_throw"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:assassin_texture/icon_dash"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:assassin_texture/icon_shadow_walk"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/arcane_thunder_1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/arcane_thunder_2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/arcane_thunder_3"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/arcane_thunder_4"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/arcane_thunder_5"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/arcane_thunder_6"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/arcane_thunder_7"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/arcane_thunder_8"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/arcane_thunder_9"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/arcane_impact_1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/arcane_impact_2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/arcane_impact_3"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/arcane_impact_4"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/arcane_impact_5"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/arcane_impact_6"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/arcane_impact_7"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/arcane_slash_1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/arcane_slash_2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/arcane_slash_3"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/arcane_slash_4"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/arcane_slash_5"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/arcane_slash_6"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/arcane_slash_7"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/archmage_staff"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/archmage_staff_shiny"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/blizzard_icicle"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/blizzard_impact_1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/blizzard_impact_2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/blizzard_impact_3"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/blizzard_impact_4"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/blizzard_impact_5"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/blizzard_impact_6"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/blizzard_impact_7"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/icon_arcane_devastation"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/icon_arcane_shield"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/icon_arcane_slash"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/icon_blizzard"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/icon_chains_of_void"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/icon_cloak_of_hastur"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/icon_meteor_storm"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/meteor_storm_explosion_1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/meteor_storm_explosion_2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/meteor_storm_explosion_3"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/meteor_storm_explosion_4"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/meteor_storm_explosion_5"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/meteor_storm_explosion_6"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/void_rupture_1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/void_rupture_2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/void_rupture_3"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/void_rupture_4"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/void_rupture_5"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:archmage_texture/void_rupture_6"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:cleric_texture/cleric_mace"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:cleric_texture/cleric_mace_shiny"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:cleric_texture/divine_immolation_1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:cleric_texture/divine_immolation_2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:cleric_texture/divine_immolation_3"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:cleric_texture/divine_immolation_4"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:cleric_texture/divine_immolation_5"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:cleric_texture/divine_immolation_6"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:cleric_texture/divine_impact_1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:cleric_texture/divine_impact_2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:cleric_texture/divine_impact_3"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:cleric_texture/divine_impact_4"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:cleric_texture/divine_impact_5"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:cleric_texture/divine_impact_6"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:cleric_texture/divine_impact_7"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:cleric_texture/divine_impact_8"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:cleric_texture/icon_blessing_of_the_white_lantern"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:cleric_texture/icon_dawnbringer_angel"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:cleric_texture/icon_divine_cross"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:cleric_texture/icon_divine_immolation"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:cleric_texture/icon_divine_punishment"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:cleric_texture/icon_luminous_wave"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:cleric_texture/icon_tears_of_god"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:cleric_texture/luminous_wave_1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:cleric_texture/luminous_wave_2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:cleric_texture/luminous_wave_3"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:cleric_texture/luminous_wave_4"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:cleric_texture/luminous_wave_5"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:cleric_texture/luminous_wave_6"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:cleric_texture/luminous_wave_7"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:cleric_texture/luminous_wave_8"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:cleric_texture/luminous_wave_9"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:cleric_texture/tear_impact_1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:cleric_texture/tear_impact_2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:cleric_texture/tear_impact_3"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:cleric_texture/tear_impact_4"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:cleric_texture/tear_impact_5"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:cleric_texture/tear_impact_6"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:cleric_texture/tear_impact_7"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:cleric_texture/tear_impact_8"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:druid_texture/crack_1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:druid_texture/crack_2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:druid_texture/crack_3"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:druid_texture/crack_4"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:druid_texture/crack_5"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:druid_texture/crack_6"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:druid_texture/druid_staff"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:druid_texture/druid_staff_shiny"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:druid_texture/icon_bear_form"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:druid_texture/icon_hawk_form"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:druid_texture/icon_healing_wisp"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:druid_texture/icon_poison_thorns"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:druid_texture/icon_vine_wave"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:druid_texture/icon_wolf_form"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:druid_texture/scratch1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:druid_texture/scratch2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:druid_texture/scratch3"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:druid_texture/scratch4"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:druid_texture/scratch5"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:druid_texture/scratch6"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:druid_texture/scratch7"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:mage_texture/arcane_missile"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:mage_texture/blink1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:mage_texture/blink2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:mage_texture/blink3"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:mage_texture/blink4"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:mage_texture/blink5"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:mage_texture/blink6"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:mage_texture/fireball"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:mage_texture/fireball_a"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:mage_texture/frost_nova"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:mage_texture/ground_crack_1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:mage_texture/ground_crack_2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:mage_texture/ground_crack_3"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:mage_texture/ground_crack_4"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:mage_texture/ground_crack_5"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:mage_texture/ground_crack_explode_1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:mage_texture/ground_crack_explode_2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:mage_texture/ground_crack_explode_3"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:mage_texture/icon_arcane_missile"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:mage_texture/icon_blink"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:mage_texture/icon_fireball"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:mage_texture/icon_frost_nova"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:mage_texture/icon_inferno_chains"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:mage_texture/icon_meteor"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:mage_texture/inferno_chains"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:mage_texture/inferno_chains_1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:mage_texture/inferno_chains_2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:mage_texture/inferno_chains_3"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:mage_texture/mage_staff"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:mage_texture/mage_staff_shiny"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:mage_texture/meteor"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/holy_chains"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/holy_mark_1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/holy_mark_2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/holy_mark_3"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/holy_mark_4"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/holy_ring_1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/holy_ring_2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/holy_ring_3"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/holy_shield_aura"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/holy_smash_rupture_1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/holy_smash_rupture_2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/holy_smash_rupture_3"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/holy_smash_rupture_4"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/holy_smash_rupture_5"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/holy_smash_rupture_6"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/holy_spear_1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/holy_spear_2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/holy_spear_3"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/holy_spear"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/holy_wings_1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/paladin_spin_slash_a"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/holy_wings_2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/holy_wings_3"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/holy_wings_4"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/holy_wings_5"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/icon_bound_seal"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/icon_hammer_of_justice"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/icon_heavenly_shield"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/icon_holy_strike"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/icon_last_stand"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/icon_radiant_aura"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/icon_unbreakable_will"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/light_eruption_1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/light_eruption_2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/light_eruption_3"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/light_eruption_4"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/light_eruption_5"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/light_eruption_6"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/light_eruption_7"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/paladin_hammer"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/paladin_hammer_shiny"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/paladin_shield_1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/paladin_shield_10"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/paladin_shield_2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/paladin_shield_3"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/paladin_shield_4"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/paladin_shield_5"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/paladin_shield_6"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/paladin_shield_7"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/paladin_shield_8"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/paladin_shield_9"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/paladin_slash_1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/paladin_slash_2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/paladin_slash_3"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/paladin_slash_4"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/paladin_slash_5"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/paladin_slash_6"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/paladin_slash_7"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/paladin_slash_8"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:paladin_texture/paladin_slash_9"
+    }
+  ]
+}

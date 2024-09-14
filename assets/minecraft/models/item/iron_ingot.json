@@ -1,0 +1,20 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/iron_ingot"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "item/misc/material_steel"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "item/misc/material_titanium"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "item/misc/material_adamantine"
+    }
+  ]
+}

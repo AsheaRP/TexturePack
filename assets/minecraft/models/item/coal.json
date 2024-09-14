@@ -1,0 +1,216 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/coal"
+	},
+	"overrides": [
+		{
+			"predicate": { "custom_model_data": 2058 },
+			"model": "archer_model/icon_backstep"
+		},
+		{
+			"predicate": { "custom_model_data": 2059 },
+			"model": "archer_model/icon_deadly_javelin"
+		},
+		{
+			"predicate": { "custom_model_data": 2060 },
+			"model": "archer_model/icon_dragon_piercer"
+		},
+		{
+			"predicate": { "custom_model_data": 2061 },
+			"model": "archer_model/icon_hunters_focus"
+		},
+		{
+			"predicate": { "custom_model_data": 2062 },
+			"model": "archer_model/icon_quick_shot"
+		},
+		{
+			"predicate": { "custom_model_data": 2063 },
+			"model": "archer_model/icon_windrazor"
+		},
+		{
+			"predicate": { "custom_model_data": 2132 },
+			"model": "archmage_model/icon_arcane_devastation"
+		},
+		{
+			"predicate": { "custom_model_data": 2133 },
+			"model": "archmage_model/icon_arcane_shield"
+		},
+		{
+			"predicate": { "custom_model_data": 2134 },
+			"model": "archmage_model/icon_arcane_slash"
+		},
+		{
+			"predicate": { "custom_model_data": 2135 },
+			"model": "archmage_model/icon_blizzard"
+		},
+		{
+			"predicate": { "custom_model_data": 2136 },
+			"model": "archmage_model/icon_chains_of_void"
+		},
+		{
+			"predicate": { "custom_model_data": 2137 },
+			"model": "archmage_model/icon_cloak_of_hastur"
+		},
+		{
+			"predicate": { "custom_model_data": 2138 },
+			"model": "archmage_model/icon_meteor_storm"
+		},
+		{
+			"predicate": { "custom_model_data": 2034 },
+			"model": "assassin_model/icon_assassins_blade"
+		},
+		{
+			"predicate": { "custom_model_data": 2035 },
+			"model": "assassin_model/icon_blade_dance"
+		},
+		{
+			"predicate": { "custom_model_data": 2036 },
+			"model": "assassin_model/icon_blade_slash"
+		},
+		{
+			"predicate": { "custom_model_data": 2037 },
+			"model": "assassin_model/icon_dagger_throw"
+		},
+		{
+			"predicate": { "custom_model_data": 2038 },
+			"model": "assassin_model/icon_dash"
+		},
+		{
+			"predicate": { "custom_model_data": 2039 },
+			"model": "assassin_model/icon_shadow_walk"
+		},
+		{
+			"predicate": { "custom_model_data": 2179 },
+			"model": "babarian_model/icon_bloodlust"
+		},
+		{
+			"predicate": { "custom_model_data": 2180 },
+			"model": "babarian_model/icon_double_edge"
+		},
+		{
+			"predicate": { "custom_model_data": 2181 },
+			"model": "babarian_model/icon_eternal_fury"
+		},
+		{
+			"predicate": { "custom_model_data": 2182 },
+			"model": "babarian_model/icon_primal_axe"
+		},
+		{
+			"predicate": { "custom_model_data": 2183 },
+			"model": "babarian_model/icon_rageblade"
+		},
+		{
+			"predicate": { "custom_model_data": 2184 },
+			"model": "babarian_model/icon_relentless_leap"
+		},
+		{
+			"predicate": { "custom_model_data": 2185 },
+			"model": "babarian_model/icon_war_cry"
+		},
+		{
+			"predicate": { "custom_model_data": 2139 },
+			"model": "cleric_model/icon_dawnbringer_angel"
+		},
+		{
+			"predicate": { "custom_model_data": 2140 },
+			"model": "cleric_model/icon_divine_immolation"
+		},
+		{
+			"predicate": { "custom_model_data": 2141 },
+			"model": "cleric_model/icon_luminous_wave"
+		},
+		{
+			"predicate": { "custom_model_data": 2142 },
+			"model": "cleric_model/icon_blessing_of_the_white_lantern"
+		},
+		{
+			"predicate": { "custom_model_data": 2143 },
+			"model": "cleric_model/icon_divine_cross"
+		},
+		{
+			"predicate": { "custom_model_data": 2144 },
+			"model": "cleric_model/icon_tears_of_god"
+		},
+		{
+			"predicate": { "custom_model_data": 2145 },
+			"model": "cleric_model/icon_divine_punishment"
+		},
+		{
+			"predicate": { "custom_model_data": 2082 },
+			"model": "druid_model/icon_bear_form"
+		},
+		{
+			"predicate": { "custom_model_data": 2083 },
+			"model": "druid_model/icon_hawk_form"
+		},
+		{
+			"predicate": { "custom_model_data": 2084 },
+			"model": "druid_model/icon_healing_wisp"
+		},
+		{
+			"predicate": { "custom_model_data": 2085 },
+			"model": "druid_model/icon_poison_thorns"
+		},
+		{
+			"predicate": { "custom_model_data": 2086 },
+			"model": "druid_model/icon_vine_wave"
+		},
+		{
+			"predicate": { "custom_model_data": 2087 },
+			"model": "druid_model/icon_wolf_form"
+		},
+		{
+			"predicate": { "custom_model_data": 2064 },
+			"model": "mage_model/icon_arcane_missile"
+		},
+		{
+			"predicate": { "custom_model_data": 2065 },
+			"model": "mage_model/icon_blink"
+		},
+		{
+			"predicate": { "custom_model_data": 2066 },
+			"model": "mage_model/icon_fireball"
+		},
+		{
+			"predicate": { "custom_model_data": 2067 },
+			"model": "mage_model/icon_frost_nova"
+		},
+		{
+			"predicate": { "custom_model_data": 2068 },
+			"model": "mage_model/icon_inferno_chains"
+		},
+		{
+			"predicate": { "custom_model_data": 2069 },
+			"model": "mage_model/icon_meteor"
+		},
+		{
+			"predicate": { "custom_model_data": 2106 },
+			"model": "paladin_model/icon_bound_seal"
+		},
+		{
+			"predicate": { "custom_model_data": 2107 },
+			"model": "paladin_model/icon_hammer_of_justice"
+		},
+		{
+			"predicate": { "custom_model_data": 2108 },
+			"model": "paladin_model/icon_heavenly_shield"
+		},
+		{
+			"predicate": { "custom_model_data": 2109 },
+			"model": "paladin_model/icon_holy_strike"
+		},
+		{
+			"predicate": { "custom_model_data": 2110 },
+			"model": "paladin_model/icon_last_stand"
+		},
+		{
+			"predicate": { "custom_model_data": 2111 },
+			"model": "paladin_model/icon_radiant_aura"
+		},
+		{
+			"predicate": { "custom_model_data": 2112 },
+			"model": "paladin_model/icon_unbreakable_will"
+		}
+	]
+}

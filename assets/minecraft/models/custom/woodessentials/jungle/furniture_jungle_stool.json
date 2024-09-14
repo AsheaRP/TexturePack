@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "custom/woodessentials/core/furniture_stool",
+	"textures": {
+		"2": "block/stripped_jungle_log",
+		"4": "block/jungle_log",
+		"particle": "block/jungle_log_top"
+	}
+}

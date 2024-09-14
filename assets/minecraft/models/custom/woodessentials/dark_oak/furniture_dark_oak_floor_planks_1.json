@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "custom/woodessentials/core/furniture_floor_planks_1",
+	"textures": {
+		"0": "block/dark_oak_log",
+		"1": "block/dark_oak_log_top",
+		"particle": "block/dark_oak_log"
+	}
+}

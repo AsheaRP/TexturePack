@@ -1,0 +1,27 @@
+{
+	"credit": "Made by Spryzeen",
+	"parent": "block/block",
+	"ambientocclusion": false,
+	"textures": {
+		"0": "block/enchanting_table_bottom",
+		"1": "block/enchanting_table_side",
+		"2": "block/enchanting_table_top",
+		"particle": "block/enchanting_table_bottom"
+	},
+	"elements": [
+		{
+			"name": "mesa",
+			"from": [0, 0, 0],
+			"to": [16, 12, 16],
+			"faces": {
+				"north": {"uv": [0, 4, 16, 16], "texture": "#1"},
+				"east": {"uv": [0, 4, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 4, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 4, 16, 16], "texture": "#1"},
+				"up": {"uv": [16, 16, 0, 0], "texture": "#2"},
+				"down": {"uv": [16, 0, 0, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {}
+}

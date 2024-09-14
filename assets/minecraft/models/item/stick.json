@@ -1,0 +1,25 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/stick"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/misc/tile"},
+		{"predicate": {"custom_model_data":2}, "model": "item/misc/long"},
+		{"predicate": {"custom_model_data":3}, "model": "item/misc/bind"},
+		{"predicate": {"custom_model_data":4}, "model": "item/misc/irong"},
+		{"predicate": {"custom_model_data":5}, "model": "item/misc/diamondg"},
+		{"predicate": {"custom_model_data":6}, "model": "item/misc/clean"},
+		{"predicate": {"custom_model_data":7}, "model": "item/orb"},
+		{"predicate": {"custom_model_data":8}, "model": "item/misc/neko_image"},
+		{"predicate": {"custom_model_data":9}, "model": "item/misc/dragonborn_image"},
+		{"predicate": {"custom_model_data":10}, "model": "item/misc/ambystoma_image"},
+		{"predicate": {"custom_model_data":11}, "model": "item/misc/elf_image"},
+		{"predicate": {"custom_model_data":12}, "model": "item/misc/demon_image"},
+		{"predicate": {"custom_model_data":13}, "model": "item/misc/endkin_image"},
+		{"predicate": {"custom_model_data":14}, "model": "item/misc/wraith_image"},
+		{"predicate": {"custom_model_data":15}, "model": "item/misc/dwarf_image"},
+		{"predicate": {"custom_model_data":16}, "model": "item/misc/human_image"}
+	]
+}

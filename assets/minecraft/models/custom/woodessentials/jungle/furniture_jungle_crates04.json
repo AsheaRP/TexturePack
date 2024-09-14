@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "custom/woodessentials/core/furniture_crates04",
+	"textures": {
+		"0": "block/stripped_jungle_log",
+		"1": "block/jungle_planks",
+		"particle": "block/stripped_jungle_log"
+	}
+}

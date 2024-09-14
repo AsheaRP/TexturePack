@@ -1,0 +1,23 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/iron_nugget"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/misc/nugget"},
+		{"predicate": {"custom_model_data":2}, "model": "item/misc/sh1"},
+		{"predicate": {"custom_model_data":3}, "model": "item/misc/sh2"},
+		{"predicate": {"custom_model_data":4}, "model": "item/misc/sh3"},
+		{"predicate": {"custom_model_data":5}, "model": "item/misc/sh4"},
+		{"predicate": {"custom_model_data":6}, "model": "item/misc/sh5"},
+		{"predicate": {"custom_model_data":7}, "model": "item/misc/sh6"},
+		{"predicate": {"custom_model_data":8}, "model": "item/misc/sh7"},
+		{"predicate": {"custom_model_data":9}, "model": "item/airship/bow"},
+		{"predicate": {"custom_model_data":10}, "model": "item/airship/deck"},
+		{"predicate": {"custom_model_data":11}, "model": "item/airship/prop"},
+		{"predicate": {"custom_model_data":12}, "model": "item/airship/balloon"},
+		{"predicate": {"custom_model_data":13}, "model": "item/airship/helm"},
+		{"predicate": {"custom_model_data":14}, "model": "item/airship/airship"}
+	]
+}

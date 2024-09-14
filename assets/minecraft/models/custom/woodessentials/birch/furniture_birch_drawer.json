@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "custom/woodessentials/core/furniture_drawer",
+	"textures": {
+		"0": "block/stripped_birch_log",
+		"1": "block/anvil",
+		"particle": "block/stripped_birch_log"
+	}
+}

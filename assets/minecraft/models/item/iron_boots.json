@@ -1,0 +1,17 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/iron_boots"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/shimin/boots"},
+		{"predicate": {"custom_model_data":2}, "model": "item/straw/sboots"},
+		{"predicate": {"custom_model_data":3}, "model": "item/adam/aboots"},
+		{"predicate": {"custom_model_data":4}, "model": "item/darktitan/dtboots"},
+		{"predicate": {"custom_model_data":5}, "model": "item/dwarven/dboots"},
+		{"predicate": {"custom_model_data":6}, "model": "item/elf/eboots"},
+		{"predicate": {"custom_model_data":7}, "model": "item/nayan/nboots"},
+		{"predicate": {"custom_model_data":8}, "model": "item/platediron/piboots"}
+			]
+		}

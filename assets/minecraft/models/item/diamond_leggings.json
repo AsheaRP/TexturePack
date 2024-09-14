@@ -1,0 +1,50 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/diamond_leggings"
+	},
+
+	"overrides": [
+		{
+			"predicate": { "custom_model_data": 1 },
+			"model": "item/steel/steel_leggings"
+		},
+		{
+			"predicate": { "custom_model_data": 2 },
+			"model": "item/steel/jade_leggings"
+		},
+		{
+			"predicate": { "custom_model_data": 3 },
+			"model": "item/steel/ruby_leggings"
+		},
+		{
+			"predicate": { "custom_model_data": 4 },
+			"model": "item/steel/sapph_leggings"
+		},
+		{
+			"predicate": { "custom_model_data": 5 },
+			"model": "item/platediron/pilegsup"
+		},
+		{
+			"predicate": { "custom_model_data": 6 },
+			"model": "item/adam/alegsup"
+		},
+		{
+			"predicate": { "custom_model_data": 7 },
+			"model": "item/darktitan/dtlegsup"
+		},
+		{
+			"predicate": { "custom_model_data": 8 },
+			"model": "item/elf/gupleggings"
+		},
+		{
+			"predicate": { "custom_model_data": 9 },
+			"model": "item/nayan/nuplegs"
+		},
+		{
+			"predicate": { "custom_model_data": 10 },
+			"model": "item/dwarven/duplegs"
+		}
+
+	]
+}

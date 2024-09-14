@@ -1,0 +1,14 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/beetroot_seeds"
+    },
+	"overrides": [	
+		{"predicate": {"custom_model_data":1}, "model": "mossy_models/amber"},
+		{"predicate": {"custom_model_data":2}, "model": "mossy_models/mossy_chest_key"},
+		{"predicate": {"custom_model_data":3}, "model": "mossy_models/mossy_green_mushroom"},
+		{"predicate": {"custom_model_data":4}, "model": "mossy_models/mossy_red_mushroom"},
+		{"predicate": {"custom_model_data":5}, "model": "mossy_models/mossy_log"},
+		{"predicate": {"custom_model_data":6}, "model": "mossy_models/mossy_rose_petal"}
+    ]
+}

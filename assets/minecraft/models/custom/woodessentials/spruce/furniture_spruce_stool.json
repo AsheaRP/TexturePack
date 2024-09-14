@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "custom/woodessentials/core/furniture_stool",
+	"textures": {
+		"2": "block/stripped_spruce_log",
+		"4": "block/spruce_log",
+		"particle": "block/spruce_log_top"
+	}
+}

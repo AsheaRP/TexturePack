@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "custom/woodessentials/core/furniture_chair",
+	"textures": {
+		"2": "block/stripped_acacia_log",
+		"4": "block/acacia_log",
+		"particle": "block/acacia_log_top"
+	}
+}

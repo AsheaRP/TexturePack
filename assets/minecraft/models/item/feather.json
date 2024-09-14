@@ -1,0 +1,23 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/feather"
+    },
+	"overrides": [	
+		{"predicate": {"custom_model_data":2030}, "model": "rpg_essentials_2_model/cactus"},
+		{"predicate": {"custom_model_data":2031}, "model": "rpg_essentials_2_model/deathbloom"},
+		{"predicate": {"custom_model_data":2032}, "model": "rpg_essentials_2_model/four_leaf_clover"},
+		{"predicate": {"custom_model_data":2033}, "model": "rpg_essentials_2_model/magical_herb"},
+		{"predicate": {"custom_model_data":2034}, "model": "rpg_essentials_2_model/mushroom_glowing"},
+		{"predicate": {"custom_model_data":2035}, "model": "rpg_essentials_2_model/mushroom_red"},
+		{"predicate": {"custom_model_data":2036}, "model": "rpg_essentials_2_model/potion_eternal"},
+		{"predicate": {"custom_model_data":2037}, "model": "rpg_essentials_2_model/potion_large"},
+		{"predicate": {"custom_model_data":2038}, "model": "rpg_essentials_2_model/potion_minor"},
+		{"predicate": {"custom_model_data":2039}, "model": "rpg_essentials_2_model/potion_small"},
+		{"predicate": {"custom_model_data":2040}, "model": "rpg_essentials_2_model/potion_superior"},
+		{"predicate": {"custom_model_data":2041}, "model": "rpg_essentials_2_model/scroll_return"},
+		{"predicate": {"custom_model_data":2042}, "model": "rpg_essentials_2_model/scroll_teleport"},
+		{"predicate": {"custom_model_data":2043}, "model": "rpg_essentials_2_model/shamrock"},
+		{"predicate": {"custom_model_data":2044}, "model": "rpg_essentials_2_model/wild_berry"}
+    ]
+}

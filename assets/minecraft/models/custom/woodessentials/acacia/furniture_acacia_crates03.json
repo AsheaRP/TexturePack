@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "custom/woodessentials/core/furniture_crates03",
+	"textures": {
+		"0": "block/stripped_acacia_log",
+		"1": "block/acacia_planks",
+		"particle": "block/stripped_acacia_log"
+	}
+}

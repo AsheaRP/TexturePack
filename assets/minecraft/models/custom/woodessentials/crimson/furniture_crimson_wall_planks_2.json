@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "custom/woodessentials/core/furniture_wall_planks_2",
+	"textures": {
+		"0": "block/crimson_stem",
+		"1": "block/crimson_stem_top",
+		"particle": "block/crimson_stem"
+	}
+}
